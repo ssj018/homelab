@@ -1,0 +1,39 @@
+---
+- name: disable selinux
+  selinux: state=disabled
+
+- name: disable firewalld
+  service: name=firewalld state=stopped enabled=no
+  when: disable_firewalld
+
+- name: set dns
+  template: src=resolv.conf.j2 dest=/etc/resolv.conf
+  when: dns_nameservers is defined or dns_searchs is defined
+  tags:
+   - dns
+  check_mode: no
+
+- name: set hostname
+  hostname: name={{ sp_hostname | default(inventory_hostname) }}
+ 
+- name: set timezone to {{ timezone }}
+  file:
+     src: /usr/share/zoneinfo/{{ timezone }}
+     dest: /etc/localtime
+     state: link
+     force: yes
+
+- name: install common_pkgs for centos
+  yum: name="{{ item.name }}-{{ item.version }}" state=installed
+  with_items: "{{ common_pkgs}}"
+  tags:
+  - pkg
+
+- name: disable DNS in sshd
+  lineinfile: dest=/etc/ssh/sshd_config regexp=^UseDNS line='UseDNS no'
+  notify: reload sshd
+
+- name: disable ctrl-alt-del to reboot system
+  systemd:
+     name: ctrl-alt-del.target
+     masked: yes

@@ -1,0 +1,12 @@
+[utils]
+util
+
+[apps]
+app1
+app2
+
+[nfs_server]
+zeus1
+
+[all:vars]
+ansible_become_pass=mds
