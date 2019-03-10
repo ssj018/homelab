@@ -1,0 +1,45 @@
+---
+- name: install collectd package
+  yum: name="{{ item.name }}-{{ item.version }}" state=installed
+  with_items:
+  - name: collectd
+    version: "{{ collectd_pkg }}"
+  - name: collectd-ipmi
+    version: "{{ collectd_ipmi_pkg}}"
+
+
+- name: copy collectd config file
+  copy: src={{ item }}.conf dest=/etc/collectd.d/{{ item }}.conf
+  with_items:
+    - general
+    - cpu
+    - disk
+    - nfs
+    - exec
+    - mem_avail
+  notify: restart collectd     
+  
+- name: make collectd plugin directory
+  file: path=/var/lib/collectd/plugins/ recurse=yes state=directory
+  
+- name: install collectd exec scripts
+  copy: src=scripts/ dest=/var/lib/collectd/plugins/ directory_mode=yes mode="u+rwx,g+rx,o+rx"
+
+- name: install snmp package
+  include: snmp.yml
+  when: "'snmp' in custom_collectd_plugins"
+
+- name: copy custom collectd config file
+  copy: src={{ item }}.conf dest=/etc/collectd.d/{{ item }}.conf
+  with_items: "{{ custom_collectd_plugins }}"
+  notify: restart collectd
+  
+- name: render collectd config file
+  template: src={{ item }}.conf.j2 dest=/etc/collectd.d/{{ item }}.conf
+  with_items:
+    - df
+    - network
+  notify: restart collectd
+
+- name: ensure collectd
+  service: name=collectd state=started enabled=yes

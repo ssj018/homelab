@@ -1,6 +1,6 @@
 {% for nameserver in dns_nameservers %}
- nameserver {{ nameserver }}
+nameserver {{ nameserver }}
 {% endfor %}
 {% if dns_searchs is defined and dns_searchs|length>0 %}
-  search {%for name in dns_searchs %} {{ name }} {% endfor %}
+search {%for name in dns_searchs %} {{ name }} {% endfor %}
 {% endif %}

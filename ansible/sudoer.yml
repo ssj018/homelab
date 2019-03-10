@@ -1,0 +1,8 @@
+---
+- hosts: all 
+  vars:
+  remote_user: root
+  sudo: true
+  tasks:
+    - name: config sudoers
+      lineinfile: dest=/etc/sudoers line='mds ALL=(ALL) NOPASSWD:ALL'

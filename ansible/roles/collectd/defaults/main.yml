@@ -1,0 +1,4 @@
+---
+df_mountpoints: []
+custom_collectd_plugins: []
+collectd_server: "influxdb"

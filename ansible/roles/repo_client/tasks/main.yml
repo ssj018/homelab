@@ -1,0 +1,12 @@
+---
+- shell: ls -1 /etc/yum.repos.d/
+  changed_when: false
+  register: repo_files
+
+- name: clean up repo dir
+  file: path=/etc/yum.repos.d/{{ item }} state=absent
+  with_items: "{{ repo_files.stdout_lines }}"
+  when: item != "SSJ.repo"
+
+- name: copy repo file
+  copy: src=files/SSJ.repo dest=/etc/yum.repos.d/SSJ.repo

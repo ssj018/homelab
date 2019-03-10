@@ -1,0 +1,14 @@
+LoadPlugin df
+
+<Plugin df>
+    MountPoint "/"
+{% for mt in df_mountpoints %}
+    MountPoint "{{ mt }}"
+{% endfor %}
+    IgnoreSelected false
+    ReportByDevice false
+    ReportReserved false
+    ReportInodes false
+    ValuesAbsolute false
+    ValuesPercentage true
+</Plugin>

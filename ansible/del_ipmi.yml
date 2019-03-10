@@ -1,0 +1,11 @@
+---
+- hosts: all
+  tasks:
+    - name: rm /etc/collectd.d/ipmi.conf
+      file: path=/etc/collectd.d/ipmi.conf state=absent
+
+    - name: copy mem_avail.conf
+      copy: src=mem_avail.conf dest=/etc/collectd.d/mem_avail.conf
+    
+    - name: restart collectd
+      service: name=collectd state=restarted

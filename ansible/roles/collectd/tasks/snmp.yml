@@ -1,0 +1,12 @@
+---
+- name: install snmp packages
+  yum: name="{{item.name}}-{{item.version}}" state=installed
+  with_items:
+    - name: colllectd-snmp
+      version: 5.5.0
+    - name: net-snmp-utils
+      version: 5.7.2
+
+- name: install MIBS file
+  copy: src={{ item }} dest=/usr/share/snmp/mibs/
+  with_fileglob: files/MIBS/*
