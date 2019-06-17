@@ -1,0 +1,254 @@
+'@Redfish.Settings':
+  '@odata.type': '#Settings.v1_0_0.Settings'
+  ETag: F0726EBF
+  Messages:
+  - MessageId: Base.1.0.Success
+  SettingsObject:
+    '@odata.id': /redfish/v1/systems/1/bios/settings/
+  Time: '2018-12-29T01:48:55+00:00'
+'@odata.context': /redfish/v1/$metadata#Bios.Bios
+'@odata.etag': W/"15EDCB4E46DD84848494063DBDE92FBE"
+'@odata.id': /redfish/v1/systems/1/bios/
+'@odata.type': '#Bios.v1_0_0.Bios'
+Actions:
+  '#Bios.ChangePassword':
+    target: /redfish/v1/systems/1/bios/settings/Actions/Bios.ChangePasswords/
+  '#Bios.ResetBios':
+    target: /redfish/v1/systems/1/bios/settings/Actions/Bios.ResetBios/
+AttributeRegistry: BiosAttributeRegistryU30.v1_1_42
+Attributes:
+  AcpiHpet: Enabled
+  AcpiRootBridgePxm: Enabled
+  AcpiSlit: Enabled
+  AdjSecPrefetch: Enabled
+  AdminEmail: ''
+  AdminName: ''
+  AdminOtherInfo: ''
+  AdminPhone: ''
+  AdvCrashDumpMode: Disabled
+  AdvancedMemProtection: AdvancedEcc
+  AsrStatus: Enabled
+  AsrTimeoutMinutes: Timeout10
+  AssetTagProtection: Locked
+  AutoPowerOn: AlwaysPowerOff
+  BootMode: Uefi
+  BootOrderPolicy: RetryIndefinitely
+  ChannelInterleaving: Enabled
+  CollabPowerControl: Disabled
+  ConsistentDevNaming: LomsAndSlots
+  CustomPostMessage: ''
+  DaylightSavingsTime: Disabled
+  DcuIpPrefetcher: Enabled
+  DcuStreamPrefetcher: Enabled
+  Dhcpv4: Enabled
+  DirectToUpi: Auto
+  DynamicPowerCapping: Disabled
+  EmbNicEnable: Auto
+  EmbNicLinkSpeed: Auto
+  EmbNicPCIeOptionROM: Enabled
+  EmbSas1Aspm: Disabled
+  EmbSas1Boot: TwentyFourTargets
+  EmbSas1Enable: Auto
+  EmbSas1LinkSpeed: Auto
+  EmbSas1PcieOptionROM: Enabled
+  EmbSata1Aspm: Disabled
+  EmbSata1PCIeOptionROM: Enabled
+  EmbSata2Aspm: Disabled
+  EmbSata2PCIeOptionROM: Enabled
+  EmbVideoConnection: Auto
+  EmbeddedDiagnostics: Enabled
+  EmbeddedSata: Ahci
+  EmbeddedSerialPort: Com2Irq3
+  EmbeddedUefiShell: Enabled
+  EmsConsole: Disabled
+  EnabledCoresPerProc: 0
+  EnergyEfficientTurbo: Disabled
+  EnergyPerfBias: MaxPerf
+  EraseUserDefaults: 'No'
+  ExtendedAmbientTemp: Disabled
+  ExtendedMemTest: Disabled
+  F11BootMenu: Enabled
+  FCScanPolicy: CardConfig
+  FanFailPolicy: Shutdown
+  FanInstallReq: EnableMessaging
+  FlexLom1Aspm: Disabled
+  FlexLom1LinkSpeed: Auto
+  FlexLom1PCIeOptionROM: Enabled
+  HttpSupport: Disabled
+  HwPrefetcher: Enabled
+  IntelDmiLinkFreq: Auto
+  IntelNicDmaChannels: Enabled
+  IntelPerfMonitoring: Disabled
+  IntelProcVtd: Disabled
+  IntelUpiFreq: Auto
+  IntelUpiLinkEn: Auto
+  IntelUpiPowerManagement: Disabled
+  IntelligentProvisioning: Enabled
+  InternalSDCardSlot: Disabled
+  Ipv4Address: 0.0.0.0
+  Ipv4Gateway: 0.0.0.0
+  Ipv4PrimaryDNS: 0.0.0.0
+  Ipv4SecondaryDNS: 0.0.0.0
+  Ipv4SubnetMask: 0.0.0.0
+  Ipv6Address: '::'
+  Ipv6ConfigPolicy: Automatic
+  Ipv6Duid: Auto
+  Ipv6Gateway: '::'
+  Ipv6PrimaryDNS: '::'
+  Ipv6SecondaryDNS: '::'
+  LLCDeadLineAllocation: Enabled
+  LlcPrefetch: Disabled
+  LocalRemoteThreshold: Auto
+  MaxMemBusFreqMHz: Auto
+  MaxPcieSpeed: PerPortCtrl
+  MemClearWarmReset: Disabled
+  MemFastTraining: Enabled
+  MemMirrorMode: Full
+  MemPatrolScrubbing: Disabled
+  MemRefreshRate: Refreshx1
+  MemoryControllerInterleaving: Auto
+  MemoryRemap: NoAction
+  MinProcIdlePkgState: NoState
+  MinProcIdlePower: NoCStates
+  MixedPowerSupplyReporting: Enabled
+  NetworkBootRetry: Enabled
+  NetworkBootRetryCount: 20
+  NicBoot1: NetworkBoot
+  NicBoot2: Disabled
+  NicBoot3: Disabled
+  NicBoot4: Disabled
+  NodeInterleaving: Disabled
+  NumaGroupSizeOpt: Clustered
+  NvmeOptionRom: Enabled
+  OpportunisticSelfRefresh: Disabled
+  PciResourcePadding: Normal
+  PciSlot1Aspm: Disabled
+  PciSlot1Bifurcation: Auto
+  PciSlot1Enable: Auto
+  PciSlot1LinkSpeed: Auto
+  PciSlot1OptionROM: Enabled
+  PciSlot2Aspm: Disabled
+  PciSlot2Bifurcation: Auto
+  PciSlot2Enable: Auto
+  PciSlot2LinkSpeed: Auto
+  PciSlot2OptionROM: Enabled
+  PciSlot3Aspm: Disabled
+  PciSlot3Bifurcation: Auto
+  PciSlot3LinkSpeed: Auto
+  PciSlot3OptionROM: Enabled
+  PciSlot4Aspm: Disabled
+  PciSlot4LinkSpeed: Auto
+  PciSlot4OptionROM: Enabled
+  PciSlot5Aspm: Disabled
+  PciSlot5LinkSpeed: Auto
+  PciSlot5OptionROM: Enabled
+  PciSlot6Aspm: Disabled
+  PciSlot6LinkSpeed: Auto
+  PciSlot6OptionROM: Enabled
+  PciSlot7Aspm: Disabled
+  PciSlot7LinkSpeed: Auto
+  PciSlot7OptionROM: Enabled
+  PciSlot8Aspm: Disabled
+  PciSlot8LinkSpeed: Auto
+  PciSlot8OptionROM: Enabled
+  PersistentMemAddressRangeScrub: Enabled
+  PersistentMemBackupPowerPolicy: WaitForBackupPower
+  PersistentMemScanMem: Enabled
+  PostBootProgress: Disabled
+  PostDiscoveryMode: Auto
+  PostF1Prompt: Delayed20Sec
+  PowerButton: Enabled
+  PowerOnDelay: NoDelay
+  PowerRegulator: StaticHighPerf
+  PreBootNetwork: Auto
+  PrebootNetworkEnvPolicy: IPv4
+  PrebootNetworkProxy: ''
+  ProcAes: Enabled
+  ProcHyperthreading: Disabled
+  ProcTurbo: Enabled
+  ProcVirtualization: Disabled
+  ProcX2Apic: Disabled
+  ProcessorJitterControl: Disabled
+  ProcessorJitterControlFrequency: 0
+  ProcessorJitterControlOptimization: ZeroLatency
+  ProductId: 868703-B21
+  RedundantPowerSupply: BalancedMode
+  RemovableFlashBootSeq: ExternalKeysFirst
+  RestoreDefaults: 'No'
+  RestoreManufacturingDefaults: 'No'
+  RomSelection: CurrentRom
+  SataSecureErase: Disabled
+  SaveUserDefaults: 'No'
+  SecStartBackupImage: Disabled
+  SecureBootStatus: Disabled
+  SerialConsoleBaudRate: BaudRate115200
+  SerialConsoleEmulation: Vt100Plus
+  SerialConsolePort: Auto
+  SerialNumber: 6CU836QMQ1
+  ServerAssetTag: ''
+  ServerName: ''
+  ServerOtherInfo: ''
+  ServerPrimaryOs: ''
+  ServiceEmail: ''
+  ServiceName: ''
+  ServiceOtherInfo: ''
+  ServicePhone: ''
+  SetupBrowserSelection: Auto
+  Sriov: Disabled
+  StaleAtoS: Disabled
+  SubNumaClustering: Enabled
+  ThermalConfig: OptimalCooling
+  ThermalShutdown: Enabled
+  TimeFormat: Utc
+  TimeZone: Unspecified
+  TpmChipId: None
+  TpmFips: NotSpecified
+  TpmState: NotPresent
+  TpmType: NoTpm
+  UefiOptimizedBoot: Enabled
+  UefiSerialDebugLevel: Disabled
+  UefiShellBootOrder: Disabled
+  UefiShellScriptVerification: Disabled
+  UefiShellStartup: Disabled
+  UefiShellStartupLocation: Auto
+  UefiShellStartupUrl: ''
+  UefiShellStartupUrlFromDhcp: Disabled
+  UncoreFreqScaling: Maximum
+  UpiPrefetcher: Enabled
+  UrlBootFile: ''
+  UrlBootFile2: ''
+  UrlBootFile3: ''
+  UrlBootFile4: ''
+  UsbBoot: Enabled
+  UsbControl: UsbEnabled
+  UserDefaultsState: Disabled
+  UtilityLang: English
+  VirtualInstallDisk: Disabled
+  VirtualSerialPort: Com1Irq4
+  VlanControl: Disabled
+  VlanId: 0
+  VlanPriority: 0
+  WakeOnLan: Enabled
+  WorkloadProfile: Custom
+  XptPrefetcher: Auto
+  iSCSIPolicy: SoftwareInitiator
+Id: bios
+Name: BIOS Current Settings
+Oem:
+  Hpe:
+    '@odata.type': '#HpeBiosExt.v2_0_0.HpeBiosExt'
+    Links:
+      BaseConfigs:
+        '@odata.id': /redfish/v1/systems/1/bios/baseconfigs/
+      Boot:
+        '@odata.id': /redfish/v1/systems/1/bios/boot/
+      Mappings:
+        '@odata.id': /redfish/v1/systems/1/bios/mappings/
+      ScalablePmem:
+        '@odata.id': /redfish/v1/systems/1/bios/hpescalablepmem/
+      TlsConfig:
+        '@odata.id': /redfish/v1/systems/1/bios/tlsconfig/
+      iScsi:
+        '@odata.id': /redfish/v1/systems/1/bios/iscsi/
+    SettingsObject:
+      UnmodifiedETag: W/"DD52688C5212676767C558F98B36CCE4"

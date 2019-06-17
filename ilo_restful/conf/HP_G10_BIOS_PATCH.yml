@@ -1,0 +1,14 @@
+Attributes:
+  EnergyPerfBias: MaxPerf
+  IntelProcVtd: Disabled
+  MemPatrolScrubbing: Disabled
+  InternalSDCardSlot: Disabled 
+  AutoPowerOn: AlwaysPowerOff
+  PowerRegulator: StaticHighPerf
+  MinProcIdlePkgState: NoState
+  MinProcIdlePower: NoCStates
+  ProcHyperthreading: Disabled
+  ProcX2Apic: Disabled
+  WorkloadProfile: Custom
+  ProcTurbo: Enabled
+  Sriov: Disabled

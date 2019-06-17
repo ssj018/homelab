@@ -23,6 +23,7 @@
       1. access
       2. trunk
    - trunk link protocol: ISL,802.1q
+      - cmd: switchport encapsulation dot1q/isl
    - ISL: cisco private protocol,Implemented in hardware,has higher efficiency
        
        original frame:
@@ -75,12 +76,12 @@
       - 1006-4096: extend vlans (switches of 3550 and above, and vtp should work on transparent mode)
 
    - DTP: provides the ability to negotiate the trunking method
-   
+     - cmd: switchport encapsulation  negotiate
+      
    - Q-IN-Q:
       - 802.1q Tunneling
-      - two tags
-   
-
+      - two vlan tags
+  
 ##VTP
    - VLAN TRUNK PROTOCOL
    - Sync vlans between all switches

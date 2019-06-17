@@ -1,0 +1,8 @@
+custom_facts:
+   software:
+     - appache: 2.0
+     - mysql: 5.8
+
+   account: 18924374
+
+   address: 'shanghai jiujianglu 501'
