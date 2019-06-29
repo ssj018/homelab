@@ -1,0 +1,10 @@
+{
+	"custom_facts":{
+		"software":{
+			"apache":{
+                           "version": "2.4",
+                           "install src": "epel"
+			}
+		}
+	}
+}
