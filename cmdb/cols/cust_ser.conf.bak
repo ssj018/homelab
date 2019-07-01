@@ -1,0 +1,25 @@
+[
+    {
+      "title": "tuoguan",
+      "id": "tuoguan",
+      "sType": "string",
+      "visible": True, 
+      "tpl": """
+           <ul>
+       <%
+          info = {} 
+          tuoguan = host.get("tuoguan")
+          for i in tuoguan:
+              account = tuoguan[i]['account_name']
+              location = tuoguan[i]['location']
+              info[i]="{} {}".format(location, account)
+       %>
+               % for i in info:
+                  <li> ${i}: ${info[i]}</li>
+               %endfor
+           </ul>
+	  """
+    },
+]
+
+

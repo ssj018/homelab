@@ -1,0 +1,1 @@
+{"Status": "online", "NICS": {"eno1": "10.1.32.10/3c:a8:2a:1e:db:24", "docker0": "172.17.42.1/02:42:b7:90:15:7a"}, "price": "59800", "HostName": "utilserver", "buy_date": "2015/10/23", "tg": {"": {"location": "", "account_name": ""}, "2015/12/23": {"location": "机柜2（16U）", "account_name": ""}}, "size": "1U惠普-整机购买"}

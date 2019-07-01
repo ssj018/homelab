@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bec8861-1f21-4b9c-977f-4b00e12b7e8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../cmdb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/01-sc84830-xx00t103" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU504705P" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU524VCBE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU524VCBK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU524VCBM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU524VCBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU524VCCH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU524VCCP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU533YW6M" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU536VSNL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU542XD2J" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU542XD2W" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU542XD35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU542XD37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU543Y5RC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU552YYAV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU611X7B2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU611X7BM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU611X7C4 " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU611X7CH " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU611X7F3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU611X7FY " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU616YVJH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU617WKH9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU625X7D7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU638V48H" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU638V4WM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU638V52S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU639X113" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU63V4BB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU7102LRR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU720LBPN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU7328EDC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU747C6DV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU747C6E3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU8041R21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU8041R28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU80527K5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU80527KC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU819W8L0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU831JKNH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU831JKQT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU831JKR6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU836QMPM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU836QMQ1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU8422L03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU8422ZTR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/6CU8422ZXL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C81500A37LM0077" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C81500A37LM0083" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C81500A37LM0091" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FD48N10250" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FD50N10039" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FD50N10044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FE01N10350" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FE01N10353" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FE01N10381" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FE07N10097" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FE07N10118" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FE07N10119" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FE39N30122" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FE39N30123" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FE39N30130" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8250FE39N30131" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/C8260FE28N20695" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CB150LD45N30038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CB150LD45N30059" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CB150LD45N30066" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN77070CYV " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN783805LH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN784605XM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN784605XN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN784605XQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN784605XR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN784605XS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN784605XT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN78480260" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN7849046D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN7849046K" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN7849046Q" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN7849046R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN79080PJQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN79130617" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/all_2/CN7916061Y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cdgquip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cdgquip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cijdatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cijquip4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cijtradeb1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyconn9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciydatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciydatalog2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciyquote2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciytrade1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciytrade2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciytradea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciytradea2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciytradea3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciytradea4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciytrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/ciytrip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cszdatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cszquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/csztradea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/csztradea2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/csztrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cwgdatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cwgquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cwgtradea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cwgtradea2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/cwgtrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/gdsquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/haiconn1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/haiconn2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/haidatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/haiquip5-mstp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/haiquip8-mstp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/haiquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/haitradea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/haitradea2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/haitrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/hkgquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/huwquip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/wksquip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/wksquip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/ansible-out/zhyquip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/cmdb.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/cols/cust_cols.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/cols/cust_ser.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/cols/cust_ser.conf.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU504705P" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU524VCBE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU524VCBK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU524VCBM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU524VCBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU524VCCH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU524VCCP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU533YW6M" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU536VSNL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU542XD2J" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU542XD2W" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU542XD35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU542XD37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU543Y5RC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU552YYAV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU611X7B2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU611X7BM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU611X7C4 " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU611X7CH " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU611X7F3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU611X7FY " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU616YVJH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU617WKH9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU625X7D7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU638V48H" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU638V4WM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU638V52S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU639X113" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU63V4BB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU7102LRR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU720LBPN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU7328EDC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU747C6DV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU747C6E3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU8041R21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU8041R28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU80527K5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU80527KC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU819W8L0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU831JKNH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU831JKQT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU831JKR6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU836QMPM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU836QMQ1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU8422L03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU8422ZTR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/6CU8422ZXL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C81500A37LM0077" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C81500A37LM0083" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C81500A37LM0091" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FD48N10250" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FD50N10039" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FD50N10044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FE01N10350" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FE01N10353" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FE01N10381" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FE07N10097" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FE07N10118" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FE07N10119" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FE39N30122" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FE39N30123" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FE39N30130" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8250FE39N30131" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/C8260FE28N20695" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CB150LD45N30038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CB150LD45N30059" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CB150LD45N30066" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN77070CYV " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN783805LH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN784605XM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN784605XN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN784605XQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN784605XR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN784605XS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN784605XT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN78480260" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN7849046D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN7849046K" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN7849046Q" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN7849046R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN79080PJQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN79130617" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/CN7916061Y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/conf/P1K65CE50CT1015" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/file/.124.csv.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/file/1222.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/file/124.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/file/20190408.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/file/test123.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/file/test123.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/g.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/hub_out/mdstrademon3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/hub_out/mdstrademon4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/hub_out/zeus5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cdgquip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cdgquip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cijdatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cijquip4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cijtradeb1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyconn9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciydatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciydatalog2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciyquote2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciytradea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciytradea2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciytradea3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciytradea4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciytrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/ciytrip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cszdatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cszquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/csztradea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/csztradea2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/csztrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cwgdatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cwgquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cwgtradea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cwgtradea2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/cwgtrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/gdsquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/haiconn1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/haiconn2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/haidatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/haiquip5-mstp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/haiquip8-mstp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/haiquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/haitrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/hkgquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/huwquip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/wksquip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/wksquip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ansible-out/zhyquip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cdgquip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cdgquip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cijdatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cijquip4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cijtradeb1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ciydatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ciyquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ciytrade1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ciytrade2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ciytradea3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ciytradea4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/ciytrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cszdatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cszquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/csztradea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/csztradea2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/csztrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cwgdatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cwgquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cwgtradea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cwgtradea2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/cwgtrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/gdsquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/haidatalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/haiquip3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/haiquip4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/haiquip5-mstp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/haiquip8-mstp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/haiquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/haitradea1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/haitradea2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/haitrip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/hkgquote1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/huwquip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/wksquip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/wksquip2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/live-out/zhyquip1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/mysql.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/mytest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_custom/testlab1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/01-sc84830-xx00t103" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU504705P" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU524VCBE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU524VCBK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU524VCBM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU524VCBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU524VCCH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU524VCCP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU533YW6M" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU536VSNL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU542XD2J" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU542XD2W" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU542XD35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU542XD37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU543Y5RC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU552YYAV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU611X7B2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU611X7BM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU611X7C4 " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU611X7CH " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU611X7F3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU611X7FY " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU616YVJH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU617WKH9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU625X7D7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU638V48H" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU638V4WM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU638V52S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU639X113" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU63V4BB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU7102LRR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU720LBPN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU7328EDC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU747C6DV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU747C6E3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU8041R21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU8041R28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU80527K5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU80527KC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU819W8L0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU831JKNH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU831JKQT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU831JKR6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU836QMPM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU836QMQ1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU8422L03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU8422ZTR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/6CU8422ZXL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C81500A37LM0077" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C81500A37LM0083" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C81500A37LM0091" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FD48N10250" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FD50N10039" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FD50N10044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FE01N10350" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FE01N10353" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FE01N10381" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FE07N10097" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FE07N10118" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FE07N10119" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FE39N30122" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FE39N30123" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FE39N30130" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8250FE39N30131" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/C8260FE28N20695" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CB150LD45N30038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CB150LD45N30059" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CB150LD45N30066" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN77070CYV " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN783805LH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN784605XM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN784605XN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN784605XQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN784605XR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN784605XS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN784605XT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN78480260" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN7849046D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN7849046K" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN7849046Q" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN7849046R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN79080PJQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN79130617" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser/CN7916061Y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/01-sc84830-xx00t103" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU504705P" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU524VCBE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU524VCBK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU524VCBM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU524VCBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU524VCCH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU524VCCP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU533YW6M" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU536VSNL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU542XD2J" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU542XD2W" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU542XD35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU542XD37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU543Y5RC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU552YYAV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU611X7B2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU611X7BM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU611X7C4 " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU611X7CH " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU611X7F3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU611X7FY " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU616YVJH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU617WKH9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU625X7D7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU638V48H" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU638V4WM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU638V52S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU639X113" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU63V4BB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU7102LRR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU720LBPN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU7328EDC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU747C6DV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU747C6E3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU8041R21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU8041R28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU80527K5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU80527KC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU819W8L0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU831JKNH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU831JKQT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU831JKR6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU836QMPM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU836QMQ1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU8422L03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU8422ZTR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/6CU8422ZXL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C81500A37LM0077" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C81500A37LM0083" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C81500A37LM0091" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FD48N10250" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FD50N10039" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FD50N10044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FE01N10350" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FE01N10353" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FE01N10381" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FE07N10097" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FE07N10118" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FE07N10119" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FE39N30122" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FE39N30123" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FE39N30130" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8250FE39N30131" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/C8260FE28N20695" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CB150LD45N30038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CB150LD45N30059" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CB150LD45N30066" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN77070CYV " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN783805LH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN784605XM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN784605XN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN784605XQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN784605XR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN784605XS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN784605XT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN78480260" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN7849046D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN7849046K" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN7849046Q" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN7849046R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN79080PJQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN79130617" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser1/CN7916061Y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/01-sc84830-xx00t103" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU504705P" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU524VCBE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU524VCBK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU524VCBM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU524VCBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU524VCCH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU524VCCP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU533YW6M" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU536VSNL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU542XD2J" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU542XD2W" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU542XD35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU542XD37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU543Y5RC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU552YYAV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU611X7B2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU611X7BM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU611X7C4 " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU611X7CH " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU611X7F3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU611X7FY " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU616YVJH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU617WKH9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU625X7D7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU638V48H" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU638V4WM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU638V52S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU639X113" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU63V4BB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU7102LRR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU720LBPN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU7328EDC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU747C6DV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU747C6E3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU8041R21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU8041R28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU80527K5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU80527KC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU819W8L0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU831JKNH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU831JKQT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU831JKR6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU836QMPM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU836QMQ1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU8422L03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU8422ZTR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/6CU8422ZXL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C81500A37LM0077" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C81500A37LM0083" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C81500A37LM0091" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FD48N10250" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FD50N10039" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FD50N10044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FE01N10350" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FE01N10353" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FE01N10381" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FE07N10097" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FE07N10118" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FE07N10119" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FE39N30122" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FE39N30123" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FE39N30130" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8250FE39N30131" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/C8260FE28N20695" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CB150LD45N30038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CB150LD45N30059" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CB150LD45N30066" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN77070CYV " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN783805LH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN784605XM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN784605XN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN784605XQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN784605XR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN784605XS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN784605XT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN78480260" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN7849046D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN7849046K" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN7849046Q" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN7849046R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN79080PJQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN79130617" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/CN7916061Y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/01-sc84830-xx00t103" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU504705P" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU524VCBE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU524VCBK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU524VCBM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU524VCBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU524VCCH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU524VCCP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU533YW6M" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU536VSNL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU542XD2J" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU542XD2W" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU542XD35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU542XD37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU543Y5RC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU552YYAV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU611X7B2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU611X7BM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU611X7C4 " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU611X7CH " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU611X7F3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU611X7FY " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU616YVJH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU617WKH9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU625X7D7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU638V48H" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU638V4WM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU638V52S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU639X113" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU63V4BB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU7102LRR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU720LBPN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU7328EDC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU747C6DV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU747C6E3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU8041R21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU8041R28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU80527K5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU80527KC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU819W8L0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU831JKNH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU831JKQT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU831JKR6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU836QMPM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU836QMQ1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU8422L03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU8422ZTR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/6CU8422ZXL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C81500A37LM0077" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C81500A37LM0083" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C81500A37LM0091" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FD48N10250" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FD50N10039" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FD50N10044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FE01N10350" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FE01N10353" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FE01N10381" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FE07N10097" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FE07N10118" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FE07N10119" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FE39N30122" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FE39N30123" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FE39N30130" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8250FE39N30131" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/C8260FE28N20695" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CB150LD45N30038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CB150LD45N30059" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CB150LD45N30066" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN77070CYV " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN783805LH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN784605XM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN784605XN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN784605XQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN784605XR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN784605XS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN784605XT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN78480260" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN7849046D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN7849046K" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN7849046Q" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN7849046R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN79080PJQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN79130617" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/out_ser3/conf/CN7916061Y" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion22" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/furion9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/haitrademon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/haitrademon2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/testlab1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/testlab2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/testlab3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/testlab4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/testlab5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/testlab6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/testlab8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/utilserver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/vhost1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/zeus1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/zeus2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/zeus3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/output/zeus4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/readcsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/readlive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/sql.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cmdb/test/6CU831JKR6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>6CU638V52S</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/readcmdbexcel.py" />
+        <option value="$PROJECT_DIR$/conf/C8250FE01N10381" />
+        <option value="$PROJECT_DIR$/yml_conf/all.yml" />
+        <option value="$PROJECT_DIR$/readcsv.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="164" />
+    <option name="y" value="353" />
+    <option name="width" value="1360" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ansible-cmdb" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.readcsv">
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cmdb_excel/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="readcmdbexcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdb_excel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readcmdbexcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readcsv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdb_excel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readcsv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.readcsv" />
+        <item itemvalue="Python.readcmdbexcel" />
+        <item itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bec8861-1f21-4b9c-977f-4b00e12b7e8f" name="Default Changelist" comment="" />
+      <created>1556438173004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556438173004</updated>
+      <workItem from="1556438176151" duration="6411000" />
+      <workItem from="1561535026246" duration="12542000" />
+      <workItem from="1561599065227" duration="18476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37429000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="358" width="1920" height="1082" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33511207" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20566632" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32948583" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33511207" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20566632" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32948583" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cmdb_excel$readcsv.coverage" NAME="readcsv Coverage Results" MODIFIED="1561716296710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmdb_excel$readcmdbexcel.coverage" NAME="readcmdbexcel Coverage Results" MODIFIED="1561535089066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/conf/6CU831JKNH">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU638V4WM">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/CN784605XQ">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/CN784605XS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="127" selection-start-column="121" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/C8250FE01N10381">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="162" selection-start-column="162" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/C8250FE39N30130">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU611X7F3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/CN7849046D">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="61" selection-start-column="61" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU524VCBK">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/01-sc84830-xx00t103">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU524VCBK">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU524VCBX">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU611X7BM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU80527K5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/C8250FD50N10039">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/C8250FE01N10350">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU8422ZXL">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU504705P">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/C8250FD50N10044">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/C8250FE39N30123">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/C8250FE39N30130">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/CB150LD45N30066">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/CB150LD45N30059">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/C81500A37LM0077">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/C81500A37LM0083">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/CN783805LH">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/CN7849046R">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/CN7916061Y">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU819W8L0">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU7102LRR">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU747C6E3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU8422ZTR">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/C8260FE28N20695">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/C81500A37LM0091">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/CB150LD45N30038">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/CN784605XS">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/CN78480260">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/CN79130617">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU542XD2J">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="102" selection-start-column="101" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU611X7CH ">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/6CU542XD2J">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU552YYAV">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU524VCBM">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU542XD37">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yml_conf/all.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="562" column="1" selection-start-line="562" selection-start-column="1" selection-end-line="563" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU524VCBX">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="74" selection-start-column="74" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU7328EDC">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU625X7D7">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="71" selection-start-column="71" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readcsv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readcmdbexcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/test123.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
