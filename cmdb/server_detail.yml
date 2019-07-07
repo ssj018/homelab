@@ -1,11 +1,11 @@
 6CU504705P:
-  HostName: None
+  HostName: none
   NICS: None
-  ProductName: unknown
+  ProductName: ProLiant DL360 Gen9
   Status: offline
   buy_date: 2015/12/23
   cur_location: 公司（九江路501号）
-  it_name: pfsense_old
+  note: pfsense_old
   price: '49000'
   size: 1U惠普-整机购买
   tg:
@@ -23,7 +23,7 @@
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: furion1
+  note: ''
   price: '59800'
   size: 1U惠普-整机购买
   tg:
@@ -41,7 +41,7 @@
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: furion4
+  note: ''
   price: '59800'
   size: 1U惠普-整机购买
   tg:
@@ -59,7 +59,7 @@
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: furion6
+  note: ''
   price: '59800'
   size: 1U惠普-整机购买
   tg:
@@ -77,8 +77,8 @@
   ProductName: ProLiant DL360 Gen9
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn15
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -93,8 +93,8 @@
   ProductName: ProLiant DL360 Gen9
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn16
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -110,7 +110,7 @@
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: utilserver
+  note: ''
   price: '59800'
   size: 1U惠普-整机购买
   tg:
@@ -132,7 +132,7 @@
   Status: online
   buy_date: 2015/7/28
   cur_location: 数讯机房（秦桥路368号）
-  it_name: haiquip8
+  note: ''
   price: '293500'
   size: 4U惠普-整机购买
   tg:
@@ -152,13 +152,13 @@
       account_name: ''
       location: 公司
 6CU536VSNL:
-  HostName: None
+  HostName: none
   NICS: None
-  ProductName: unknown
+  ProductName: ProLiant DL580 Gen9
   Status: offline
   buy_date: 2015/8/26
   cur_location: 公司（九江路501号）
-  it_name: huwquip1
+  note: huwquip1
   price: '292800'
   size: 4U惠普-整机购买
   tg:
@@ -184,7 +184,7 @@
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: furion3
+  note: ''
   price: '59800'
   size: 2U惠普-整机购买
   tg:
@@ -208,7 +208,7 @@
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: furion11
+  note: ''
   price: '59800'
   size: 2U惠普-整机购买
   tg:
@@ -229,7 +229,7 @@
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: furion17
+  note: ''
   price: '59800'
   size: 2U惠普-整机购买
   tg:
@@ -247,7 +247,7 @@
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: vhost1
+  note: ''
   price: '59800'
   size: 2U惠普-整机购买
   tg:
@@ -264,13 +264,13 @@
       account_name: ''
       location: 机柜1（5-6U)
 6CU543Y5RC:
-  HostName: None
+  HostName: none
   NICS: None
-  ProductName: unknown
+  ProductName: ProLiant DL380 Gen9
   Status: offline
   buy_date: 2015/12/23
   cur_location: 公司（九江路501号）
-  it_name: zeus2
+  note: zeus2
   price: '16300'
   size: 2U惠普-整机购买
   tg:
@@ -288,7 +288,7 @@
   Status: online
   buy_date: 2016/3/1
   cur_location: 公司（九江路501号）
-  it_name: haitrademon
+  note: ''
   price: '20560'
   size: 1U惠普-整机购买
   tg:
@@ -302,13 +302,13 @@
       account_name: ''
       location: 上证通外高桥机房
 6CU611X7B2:
-  HostName: None
+  HostName: none
   NICS: None
-  ProductName: unknown
+  ProductName: ProLiant DL380 Gen9
   Status: offline
   buy_date: 2016/4/21
   cur_location: 公司（九江路501号）
-  it_name: shzquip1
+  note: shzquip1
   price: '58830'
   size: 2U惠普-整机购买
   tg:
@@ -335,7 +335,7 @@
   Status: online
   buy_date: 2016/4/21
   cur_location: 外高桥万国数据中心（华京路6号）
-  it_name: gdsquote1
+  note: ''
   price: '58830'
   size: 2U惠普-整机购买
   tg:
@@ -352,13 +352,13 @@
       account_name: ''
       location: 万国数据中心
 6CU611X7C4:
-  HostName: None
+  HostName: none
   NICS: None
-  ProductName: unknown
+  ProductName: ProLiant DL380 Gen9
   Status: offline
   buy_date: 2016/4/28
   cur_location: 公司（九江路501号）
-  it_name: cdfquip1
+  note: cdfquip1
   price: '58830'
   size: 2U惠普-整机购买
   tg:
@@ -386,7 +386,7 @@
   Status: online
   buy_date: 2016/4/28
   cur_location: 大连高新机房
-  it_name: cdgquip2
+  note: ''
   price: '58830'
   size: 2U惠普-整机购买
   tg:
@@ -410,7 +410,7 @@
   Status: online
   buy_date: 2016/4/28
   cur_location: 中信期货移动机房一期（宁桥路600号）
-  it_name: ciyquip1
+  note: ''
   price: '58830'
   size: 2U惠普-整机购买
   tg:
@@ -438,7 +438,7 @@
   Status: online
   buy_date: 2016/4/28
   cur_location: 中信证券深证南方机房
-  it_name: testlab2
+  note: ''
   price: '58830'
   size: 2U惠普-整机购买
   tg:
@@ -462,7 +462,7 @@
   Status: online
   buy_date: 2016/7/1
   cur_location: 公司（九江路501号）
-  it_name: zeus4
+  note: ''
   price: '106500'
   size: 2U惠普-整机购买
   tg:
@@ -483,7 +483,7 @@
   Status: online
   buy_date: 2016/5/9
   cur_location: 数讯机房（秦桥路368号）
-  it_name: haiquip5
+  note: ''
   price: '282500'
   size: 4U惠普-整机购买
   tg:
@@ -507,7 +507,7 @@
   Status: online
   buy_date: 2016/7/14
   cur_location: 公司（九江路501号）
-  it_name: zeus3
+  note: ''
   price: '96880'
   size: 2U惠普-整机购买
   tg:
@@ -518,13 +518,13 @@
       account_name: ''
       location: 公司机柜3(6-7U）
 6CU638V48H:
-  HostName: None
+  HostName: none
   NICS: None
-  ProductName: unknown
+  ProductName: ProLiant DL380 Gen9
   Status: offline
   buy_date: 2017/5/4
   cur_location: 公司（九江路501号）
-  it_name: cijquip3
+  note: cijquip3
   price: '77500'
   size: 2U惠普-整机购买
   tg:
@@ -534,14 +534,34 @@
     2018/4/27:
       account_name: 213叶倍蕾,2000元/月
       location: 张江机房
+6CU638V4BB:
+  HostName: haiconn1
+  NICS:
+    iga0: 172.31.78.87/94:18:82:0a:5b:a4
+    mxi0: 10.1.82.23/e4:1d:2d:48:66:f1
+    mxt0: 172.31.77.175/e4:1d:2d:48:66:f0
+  ProductName: ProLiant DL380 Gen9
+  Status: online
+  buy_date: 2017/5/4
+  cur_location: 数讯机房（秦桥路368号）
+  note: ''
+  price: '77500'
+  size: 2U惠普-整机购买
+  tg:
+    ? ''
+    : account_name: ''
+      location: ''
+    2018/4/27:
+      account_name: 289陈立华
+      location: 数迅机房1楼
 6CU638V4WM:
-  HostName: None
+  HostName: none
   NICS: None
-  ProductName: unknown
+  ProductName: ProLiant DL380 Gen9
   Status: offline
   buy_date: 2016/9/28
   cur_location: 公司（九江路501号）
-  it_name: cijdatalog
+  note: cijdatalog
   price: '67800'
   size: 2U惠普-整机购买
   tg:
@@ -562,7 +582,7 @@
   Status: online
   buy_date: 2016/9/28
   cur_location: 公司（九江路501号）
-  it_name: furion19
+  note: ''
   price: '59800'
   size: 2U惠普-整机购买
   tg:
@@ -582,7 +602,7 @@
   Status: online
   buy_date: 2017/1/20
   cur_location: 中信证券上证通（华京路１号）
-  it_name: tbd
+  note: ''
   price: '67700'
   size: 2U惠普-整机购买
   tg:
@@ -592,23 +612,6 @@
     2018/4/27:
       account_name: 109马冰
       location: 上证通外高桥机房
-6CU63V4BB:
-  HostName: None
-  NICS: None
-  ProductName: unknown
-  Status: offline
-  buy_date: 2017/5/4
-  cur_location: 公司（九江路501号）
-  it_name: haiquip3
-  price: '77500'
-  size: 2U惠普-整机购买
-  tg:
-    ? ''
-    : account_name: ''
-      location: ''
-    2018/4/27:
-      account_name: 289陈立华
-      location: 数迅机房1楼
 6CU7102LRR:
   HostName: cdgquip1
   NICS:
@@ -620,7 +623,7 @@
   Status: online
   buy_date: 2017/6/5
   cur_location: 大连高新机房
-  it_name: cdgquip1
+  note: ''
   price: '77500'
   size: 2U惠普-整机购买
   tg:
@@ -637,7 +640,7 @@
       account_name: 138石小苍
       location: 大连交易所G机房
 6CU720LBPN:
-  HostName: haiquip4
+  HostName: haiconn2
   NICS:
     iga0: 172.31.78.121/30:e1:71:5d:98:69
     mxi0: 10.1.82.28/7c:fe:90:a2:d3:c1
@@ -646,7 +649,7 @@
   Status: online
   buy_date: 2017/6/5
   cur_location: 数讯机房（秦桥路368号）
-  it_name: haiquip4
+  note: ''
   price: '77500'
   size: 2U惠普-整机购买
   tg:
@@ -664,13 +667,12 @@
   NICS:
     ens2f0: 192.168.110.2/ec:0d:9a:d9:bf:be
     igi0: 10.1.64.11/f4:03:43:4a:1d:30
-    mxi0.1: 10.1.200.21/ec:0d:9a:d9:bf:bf
-    mxi0.205: 10.1.205.21/ec:0d:9a:d9:bf:bf
+    mxi0: 10.1.200.21/ec:0d:9a:d9:bf:bf
   ProductName: ProLiant DL380 Gen9
   Status: online
   buy_date: 2017/12/22
   cur_location: 公司（九江路501号）
-  it_name: testlab1
+  note: ''
   price: '67800'
   size: 2U惠普-整机购买
   tg:
@@ -689,7 +691,7 @@
   Status: online
   buy_date: 2017/10/31
   cur_location: 公司（九江路501号）
-  it_name: huwquip2
+  note: ''
   price: '92470'
   size: 2U惠普-整机购买
   tg:
@@ -711,7 +713,7 @@
   Status: online
   buy_date: 2017/10/31
   cur_location: 中信证券深证南方机房
-  it_name: /
+  note: ''
   price: '92470'
   size: 2U惠普-整机购买
   tg:
@@ -734,7 +736,7 @@
   Status: online
   buy_date: 2017/12/22
   cur_location: 中信证券上证通（华京路１号）
-  it_name: /
+  note: ''
   price: '67800'
   size: 2U惠普-整机购买
   tg:
@@ -756,7 +758,7 @@
   Status: online
   buy_date: 2017/12/22
   cur_location: 公司（九江路501号）
-  it_name: /
+  note: ''
   price: '67800'
   size: 2U惠普-整机购买
   tg:
@@ -779,7 +781,7 @@
   Status: online
   buy_date: 2018/3/20
   cur_location: 中信证券上证通（华京路１号）
-  it_name: /
+  note: ''
   price: '92470'
   size: 2U惠普-整机购买
   tg:
@@ -802,7 +804,7 @@
   Status: online
   buy_date: 2018/3/20
   cur_location: 中信证券深证南方机房
-  it_name: /
+  note: ''
   price: '92470'
   size: 2U惠普-整机购买
   tg:
@@ -826,7 +828,7 @@
   Status: online
   buy_date: 2018/5/10
   cur_location: 张江机房（乐昌路399号）
-  it_name: /
+  note: ''
   price: '97980'
   size: 2U惠普-整机购买
   tg:
@@ -842,14 +844,13 @@
 6CU831JKNH:
   HostName: testlab5
   NICS:
-    ens1d1: 10.1.200.215/e4:1d:2d:2b:db:a1
-    igi0: 10.1.72.136/b8:83:03:4a:cd:68
-    mxi0: 10.1.200.15/e4:1d:2d:2b:db:a0
+    iga0: 10.1.72.136/b8:83:03:4a:cd:68
+    mxi0: 10.1.201.15/e4:1d:2d:2b:db:a0
   ProductName: ProLiant DL380 Gen10
   Status: online
   buy_date: 2018/8/21
   cur_location: 公司（九江路501号）
-  it_name: ''
+  note: ''
   price: '80000'
   size: 2U惠普-整机购买
   tg:
@@ -870,7 +871,7 @@
   Status: online
   buy_date: 2018/10/31
   cur_location: 中信期货移动机房一期（宁桥路600号）
-  it_name: ciyquote1
+  note: ''
   price: '75500'
   size: 2U惠普-整机购买
   tg:
@@ -891,7 +892,7 @@
   Status: online
   buy_date: 2018/10/31
   cur_location: 中信期货移动机房一期（宁桥路600号）
-  it_name: ciytrip1
+  note: ''
   price: '75500'
   size: 2U惠普-整机购买
   tg:
@@ -902,15 +903,16 @@
       account_name: ''
       location: 公司
 6CU836QMPM:
-  HostName: haitradea2
+  HostName: cdgquip3
   NICS:
-    iga0: 172.31.78.138/b8:83:03:4e:b8:bc
-    mxi0: 10.1.82.50/98:03:9b:3a:fc:fa
+    iga0: 172.31.117.26/b8:83:03:4e:b8:bc
+    mxf0: 10.7.233.138/98:03:9b:3a:fc:fb
+    mxt0: 156.116.3.51/98:03:9b:3a:fc:fa
   ProductName: ProLiant DL380 Gen10
   Status: online
   buy_date: 2018/9/18
-  cur_location: 数讯机房（秦桥路368号）
-  it_name: haitradea2
+  cur_location: 大连高新机房
+  note: ''
   price: '92600'
   size: 2U惠普-整机购买
   tg:
@@ -926,12 +928,13 @@
 6CU836QMQ1:
   HostName: testlab8
   NICS:
-    eno1: 10.1.70.214/b8:83:03:4e:be:5c
+    iga0: 10.1.70.214/b8:83:03:4e:be:5c
+    mxi0: 10.1.201.28/e4:1d:2d:2b:d9:50
   ProductName: ProLiant DL380 Gen10
   Status: online
   buy_date: 2018/9/18
   cur_location: 公司（九江路501号）
-  it_name: testlab8
+  note: ''
   price: '79000'
   size: 2U惠普-整机购买
   tg:
@@ -939,15 +942,15 @@
       account_name: ''
       location: 公司
 6CU8422L03:
-  HostName: haitradea1
+  HostName: cdgquip4
   NICS:
-    iga0: 172.31.78.129/54:80:28:4c:1f:c0
-    mxi0: 10.1.82.52/98:03:9b:3a:fc:fe
+    iga0: 172.31.117.28/54:80:28:4c:1f:c0
+    mxt0: 156.116.3.52/98:03:9b:3a:fc:fe
   ProductName: ProLiant DL380 Gen10
   Status: online
   buy_date: 2018/8/30
-  cur_location: 数讯机房（秦桥路368号）
-  it_name: haitradea1
+  cur_location: 大连高新机房
+  note: ''
   price: '80000'
   size: 2U惠普-整机购买
   tg:
@@ -969,7 +972,7 @@
   Status: online
   buy_date: 2018/10/31
   cur_location: 中信期货移动机房一期（宁桥路600号）
-  it_name: ciytrade4
+  note: ''
   price: '79000'
   size: 2U惠普-整机购买
   tg:
@@ -979,6 +982,22 @@
     2018/11/6:
       account_name: ''
       location: 公司
+6CU8422ZVF:
+  HostName: cijtradeb1
+  NICS:
+    iga0: 172.31.0.142/b8:83:03:4d:84:18
+    mxf0: 156.156.156.44/98:03:9b:3b:03:32
+    mxf1: 192.168.200.2/98:03:9b:c9:d6:15
+    mxi0: 10.1.81.21/98:03:9b:c9:d6:14
+    mxt0: 156.156.2.38/98:03:9b:3b:03:33
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: None
+  cur_location: 张江机房（乐昌路399号）
+  note: ''
+  price: None
+  size: 2U惠普-整机购买
+  tg: {}
 6CU8422ZXL:
   HostName: ciytradea3
   NICS:
@@ -988,7 +1007,7 @@
   Status: online
   buy_date: 2018/10/31
   cur_location: 中信期货移动机房一期（宁桥路600号）
-  it_name: ciytrade3
+  note: ''
   price: '79000'
   size: 2U惠普-整机购买
   tg:
@@ -999,14 +1018,14 @@
       account_name: ''
       location: 公司
 C81500A37LM0077:
-  HostName: Furion8
+  HostName: furion8
   NICS:
     eno2: 10.1.32.28/0c:c4:7a:c8:1d:99
   ProductName: Super Server
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: Furion8
+  note: ''
   price: '53300'
   size: 1U超微-零件组装
   tg:
@@ -1017,14 +1036,14 @@ C81500A37LM0077:
       account_name: ''
       location: 机柜1 （8U）
 C81500A37LM0083:
-  HostName: Furion15
+  HostName: furion15
   NICS:
     eno1: 10.1.32.38/0c:c4:7a:79:ae:34
   ProductName: Super Server
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: Furion15
+  note: ''
   price: '53300'
   size: 1U超微-零件组装
   tg:
@@ -1039,7 +1058,7 @@ C81500A37LM0083:
       location: 公司
     2015/12/25:
       account_name: ''
-      location: 外借测试转接卡
+      location: 外借测试
     2015/12/30:
       account_name: ''
       location: 公司（机房未拆）
@@ -1051,7 +1070,7 @@ C81500A37LM0091:
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: furion10
+  note: ''
   price: '53300'
   size: 1U超微-零件组装
   tg:
@@ -1062,13 +1081,13 @@ C81500A37LM0091:
       account_name: ''
       location: 公司（机房未拆）
 C8250FD48N10250:
-  HostName: none
+  HostName: borrow
   NICS: None
   ProductName: super server
   Status: offline
   buy_date: 2015/1/8
   cur_location: 公司（九江路501号）
-  it_name: ''
+  note: borrow out
   price: '25000'
   size: 2U超微-零件组装
   tg:
@@ -1094,14 +1113,14 @@ C8250FD48N10250:
       account_name: /
       location: 公司
 C8250FD50N10039:
-  HostName: Furion22
+  HostName: furion22
   NICS:
     ens11: 10.1.32.45/e4:1d:2d:b1:65:e0
   ProductName: Super Server
   Status: online
   buy_date: 2014/12/20
   cur_location: 公司（九江路501号）
-  it_name: Furion22
+  note: ''
   price: '25000'
   size: 2U超微-零件组装
   tg:
@@ -1136,13 +1155,13 @@ C8250FD50N10039:
       account_name: /
       location: 机柜2（29-30U）
 C8250FD50N10044:
-  HostName: none
+  HostName: beagent
   NICS: None
   ProductName: super server
-  Status: offline
+  Status: online
   buy_date: 2015/4/3
   cur_location: 公司（九江路501号）
-  it_name: ciyquip1
+  note: ''
   price: '45200'
   size: 2U超微-整机购买
   tg:
@@ -1159,13 +1178,14 @@ C8250FD50N10044:
       account_name: ''
       location: 公司机柜3（27-28U）
 C8250FE01N10350:
-  HostName: none
-  NICS: None
+  HostName: furion21
+  NICS:
+    enp130s0: 10.1.32.44/ec:0d:9a:20:98:b0
   ProductName: super server
-  Status: offline
+  Status: online
   buy_date: 2015/3/12
   cur_location: 公司（九江路501号）
-  it_name: haiquip-4
+  note: ''
   price: '45200'
   size: 2U超微-整机购买
   tg:
@@ -1182,13 +1202,13 @@ C8250FE01N10350:
       account_name: ''
       location: 公司机柜1（10-11U）
 C8250FE01N10353:
-  HostName: none
+  HostName: builder
   NICS: None
   ProductName: super server
   Status: offline
   buy_date: 2015/8/4
   cur_location: 公司（九江路501号）
-  it_name: builder
+  note: builder
   price: '44800'
   size: 2U超微-整机购买
   tg:
@@ -1202,13 +1222,14 @@ C8250FE01N10353:
       account_name: ''
       location: 公司测试
 C8250FE01N10381:
-  HostName: none
-  NICS: None
+  HostName: furion2
+  NICS:
+    enp2s0: 10.1.32.21/ec:0d:9a:20:98:a0
   ProductName: super server
-  Status: offline
+  Status: online
   buy_date: 2015/2/3
   cur_location: 公司（九江路501号）
-  it_name: haiquip-3
+  note: ''
   price: '36000'
   size: 2U超微-整机购买
   tg:
@@ -1234,7 +1255,7 @@ C8250FE07N10097:
   Status: online
   buy_date: 2015/8/4
   cur_location: 公司（九江路501号）
-  it_name: testlab3
+  note: ''
   price: '44800'
   size: 2U超微-整机购买
   tg:
@@ -1245,13 +1266,14 @@ C8250FE07N10097:
       account_name: ''
       location: 机柜1（26-27U）
 C8250FE07N10118:
-  HostName: none
-  NICS: None
+  HostName: furion18
+  NICS:
+    ens1f4: 10.1.32.41/00:07:43:2b:48:50
   ProductName: super server
-  Status: offline
+  Status: online
   buy_date: 2015/6/4
   cur_location: 公司（九江路501号）
-  it_name: gfsquip1
+  note: ''
   price: '45200'
   size: 2U超微-整机购买
   tg:
@@ -1280,7 +1302,7 @@ C8250FE07N10119:
   Status: offline
   buy_date: 2015/6/11
   cur_location: 公司（九江路501号）
-  it_name: cijquip1
+  note: cijquip1
   price: '45200'
   size: 2U超微-整机购买
   tg:
@@ -1297,14 +1319,14 @@ C8250FE07N10119:
       account_name: ''
       location: 公司机柜3（24-25U）
 C8250FE39N30122:
-  HostName: Furion16
+  HostName: furion16
   NICS:
     ens1: 10.1.32.39/ec:0d:9a:ed:2c:b0
   ProductName: Super Server
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: Furion16
+  note: ''
   price: '53000'
   size: 2U超微-零件组装
   tg:
@@ -1318,14 +1340,14 @@ C8250FE39N30122:
       account_name: ''
       location: 机柜1（12-13U）
 C8250FE39N30123:
-  HostName: Furion12
+  HostName: furion12
   NICS:
     ens1f0: 10.1.32.35/00:0f:53:34:81:d0
   ProductName: Super Server
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: Furion12
+  note: ''
   price: '53000'
   size: 2U超微-零件组装
   tg:
@@ -1339,14 +1361,14 @@ C8250FE39N30123:
       account_name: ''
       location: 机柜1（15-16U）
 C8250FE39N30130:
-  HostName: Furion13
+  HostName: furion13
   NICS:
     enp130s0: 10.1.32.36/e4:1d:2d:b1:6f:50
   ProductName: Super Server
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: Furion13
+  note: ''
   price: '53000'
   size: 2U超微-零件组装
   tg:
@@ -1360,13 +1382,15 @@ C8250FE39N30130:
       account_name: ''
       location: 公司（机房未拆）
 C8250FE39N30131:
-  HostName: none
-  NICS: None
+  HostName: ciytrade2
+  NICS:
+    iga0: 172.31.102.28/0c:c4:7a:79:21:a6
+    mxt0: 172.31.100.68/e4:1d:2d:2b:dd:d0
   ProductName: super server
-  Status: offline
+  Status: online
   buy_date: 2015/10/23
-  cur_location: 公司（九江路501号）
-  it_name: ciytrade2
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: ''
   price: '53000'
   size: 2U超微-零件组装
   tg:
@@ -1375,7 +1399,7 @@ C8250FE39N30131:
       location: ''
     2015/11/3:
       account_name: ''
-      location: 新移动机房（宁桥路600号）
+      location: 中信期货移动一期机房（宁桥路600号）
 C8260FE28N20695:
   HostName: zeus1
   NICS:
@@ -1384,7 +1408,7 @@ C8260FE28N20695:
   Status: online
   buy_date: 2015/12/23
   cur_location: 公司（九江路501号）
-  it_name: zeus1
+  note: ''
   price: '68180'
   size: 2U超微-零件组装
   tg:
@@ -1395,13 +1419,15 @@ C8260FE28N20695:
       account_name: ''
       location: 外借中信（ZHD）
 CB150LD45N30038:
-  HostName: none
-  NICS: None
+  HostName: ciytrade1
+  NICS:
+    iga0: 172.31.102.27/a0:36:9f:8d:fa:1b
+    mxt0: 172.31.100.67/0c:c4:7a:79:ae:4e
   ProductName: super server
-  Status: offline
+  Status: online
   buy_date: 2015/10/23
-  cur_location: 公司（九江路501号）
-  it_name: ciytrade1
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: ''
   price: '53300'
   size: 1U超微-零件组装
   tg:
@@ -1410,16 +1436,16 @@ CB150LD45N30038:
       location: ''
     2015/11/3:
       account_name: 303金荣
-      location: 新移动机房（宁桥路600号）
+      location: 中信期货移动一期机房（宁桥路600号）
 CB150LD45N30059:
-  HostName: Furion14
+  HostName: furion14
   NICS:
     eno1: 10.1.32.37/0c:c4:7a:74:01:68
   ProductName: Super Server
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: Furion14
+  note: ''
   price: '53300'
   size: 1U超微-零件组装
   tg:
@@ -1433,14 +1459,14 @@ CB150LD45N30059:
       account_name: ''
       location: 公司
 CB150LD45N30066:
-  HostName: Furion9
+  HostName: furion9
   NICS:
     eno2: 10.1.32.29/0c:c4:7a:79:ae:27
   ProductName: Super Server
   Status: online
   buy_date: 2015/10/23
   cur_location: 公司（九江路501号）
-  it_name: Furion9
+  note: ''
   price: '53300'
   size: 1U超微-零件组装
   tg:
@@ -1460,7 +1486,7 @@ CN77070CYV:
   Status: online
   buy_date: 2018/1/22
   cur_location: 公司（九江路501号）
-  it_name: pfsense
+  note: ''
   price: '20210'
   size: 1U惠普-整机购买
   tg: {}
@@ -1473,9 +1499,35 @@ CN783805LH:
   Status: online
   buy_date: 2018/3/5
   cur_location: hub dc (秦桥路368)
-  it_name: pfsense-hubdc
+  note: ''
   price: '21250'
   size: 1U惠普-整机购买
+  tg: {}
+CN784601QL:
+  HostName: wksquip1
+  NICS:
+    mxi0: 100.32.64.1/98:03:9b:3a:fe:06
+    mxt0: 100.32.66.1/98:03:9b:3a:fe:07
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: None
+  cur_location: 五矿
+  note: ''
+  price: None
+  size: 2U惠普-整机购买
+  tg: {}
+CN784601QM:
+  HostName: wksquip2
+  NICS:
+    mxi0: 100.32.64.2/98:03:9b:3a:fe:1a
+    mxt0: 100.32.66.2/98:03:9b:3a:fe:1b
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: None
+  cur_location: 五矿
+  note: ''
+  price: None
+  size: 2U惠普-整机购买
   tg: {}
 CN784605XM:
   HostName: haitrip1
@@ -1489,7 +1541,7 @@ CN784605XM:
   Status: online
   buy_date: 2018/10/31
   cur_location: 数讯机房（秦桥路368号）
-  it_name: haitrip1
+  note: ''
   price: '75500'
   size: 2U惠普-整机购买
   tg:
@@ -1516,7 +1568,7 @@ CN784605XN:
   Status: online
   buy_date: 2018/10/31
   cur_location: 数讯机房（秦桥路368号）
-  it_name: ' haiquote1'
+  note: ''
   price: '75500'
   size: 2U惠普-整机购买
   tg:
@@ -1529,6 +1581,20 @@ CN784605XN:
     2018/12/12:
       account_name: 025杰尚杰
       location: 数讯机房
+CN784605XP:
+  HostName: testlab6
+  NICS:
+    ens1: 10.1.200.36/e4:1d:2d:4f:7f:b0
+    iga0: 10.1.70.212/54:80:28:51:18:8e
+    mxi0: 10.1.201.26/98:03:9b:3a:fd:c2
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: None
+  cur_location: 公司（九江路501号）
+  note: ''
+  price: None
+  size: 2U惠普-整机购买
+  tg: {}
 CN784605XQ:
   HostName: csztrip1
   NICS:
@@ -1538,7 +1604,7 @@ CN784605XQ:
   Status: online
   buy_date: 2018/10/31
   cur_location: 中信证券深证南方机房
-  it_name: zhibu-sz-39
+  note: ''
   price: '75500'
   size: 2U惠普-整机购买
   tg:
@@ -1561,7 +1627,7 @@ CN784605XR:
   Status: online
   buy_date: 2018/10/31
   cur_location: 中信证券上证通（华京路１号）
-  it_name: cwgtrip1
+  note: ''
   price: '75500'
   size: 2U惠普-整机购买
   tg:
@@ -1584,7 +1650,7 @@ CN784605XS:
   Status: online
   buy_date: 2018/10/31
   cur_location: 中信证券深证南方机房
-  it_name: ' zhibu-sz-37'
+  note: ''
   price: '75500'
   size: 2U惠普-整机购买
   tg:
@@ -1604,7 +1670,7 @@ CN784605XT:
   Status: online
   buy_date: 2018/10/31
   cur_location: 中信证券上证通（华京路１号）
-  it_name: cwgquote1
+  note: ''
   price: '75500'
   size: 2U惠普-整机购买
   tg:
@@ -1626,7 +1692,7 @@ CN78480260:
   Status: online
   buy_date: 2018/11/7
   cur_location: 数讯机房（秦桥路368号）
-  it_name: ' '
+  note: ''
   price: '75500'
   size: 1U惠普-整机购买
   tg:
@@ -1644,7 +1710,7 @@ CN7849046D:
   Status: online
   buy_date: 2019/3/6
   cur_location: hub dc (秦桥路368)
-  it_name: zeus5
+  note: ''
   price: ''
   size: 2U惠普-整机购买
   tg:
@@ -1662,7 +1728,7 @@ CN7849046K:
   Status: online
   buy_date: 2019/5/4
   cur_location: 公司（九江路501号）
-  it_name: zeus2-new
+  note: ''
   price: ''
   size: 1U惠普-整机购买
   tg:
@@ -1677,7 +1743,7 @@ CN7849046Q:
   Status: online
   buy_date: 2019/3/6
   cur_location: hub dc (秦桥路368)
-  it_name: mdstrademon3
+  note: ''
   price: '44300'
   size: 2U惠普-整机购买
   tg:
@@ -1695,7 +1761,7 @@ CN7849046R:
   Status: online
   buy_date: 2019/3/6
   cur_location: hub dc (秦桥路368)
-  it_name: mdstrademon4
+  note: ''
   price: '44300'
   size: 2U惠普-整机购买
   tg:
@@ -1705,20 +1771,19 @@ CN7849046R:
     2019/3/6:
       account_name: ''
       location: 公司
-CN79080PJQ:
-  HostName: None
-  NICS: None
-  ProductName: unknown
-  Status: offline
-  buy_date: 2019/3/6
+CN79020FL4:
+  HostName: testlab2
+  NICS:
+    iga0: 10.1.70.215/08:f1:ea:8a:4e:42
+    mxi0: 10.1.201.22/98:03:9b:48:c7:10
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: None
   cur_location: 公司（九江路501号）
-  it_name: NA
-  price: '55500'
+  note: ''
+  price: None
   size: 2U惠普-整机购买
-  tg:
-    2019/3/6:
-      account_name: ''
-      location: 公司
+  tg: {}
 CN79130617:
   HostName: ciyconn1
   NICS:
@@ -1727,28 +1792,82 @@ CN79130617:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn1
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
     2019/6/5:
       account_name: 叶倍蕾
       location: 中信期货移动二期机房
-CN7916061Y:
-  HostName: None
-  NICS: None
-  ProductName: unknown
-  Status: offline
-  buy_date: 2019/4/22
-  cur_location: 公司（九江路501号）
-  it_name: NA
-  price: ''
-  size: 1U惠普-整机购买
+CN791600KS:
+  HostName: ciyquote2
+  NICS:
+    iga0: 172.31.109.74/08:f1:ea:8d:5b:e8
+    mxf0: 10.116.177.7/98:03:9b:3a:fd:a7
+    mxi0: 10.1.87.42/98:03:9b:88:81:52
+    mxt0: 156.109.1.62/98:03:9b:3a:fd:a6
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: 2019/5/25
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: ''
+  price: '74000'
+  size: 2U惠普-整机购买
   tg:
-    2019/4/22:
-      account_name: ''
-      location: 公司
+    2019/5/29:
+      account_name: 杰尚杰
+      location: 中信期货移动二期机房
+CN791600KT:
+  HostName: ciytrip2
+  NICS:
+    iga0: 172.31.109.72/08:f1:ea:8e:2b:42
+    mxf0: 10.116.177.8/98:03:9b:3b:03:2e
+    mxi0: 10.1.87.41/98:03:9b:88:86:0a
+    mxt0: 156.109.1.61/98:03:9b:3b:03:2f
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: 2019/5/25
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: ''
+  price: '74000'
+  size: 2U惠普-整机购买
+  tg:
+    2019/5/29:
+      account_name: 杰尚杰
+      location: 中信期货移动二期机房
+CN791600KV:
+  HostName: ciydatalog2
+  NICS:
+    iga0: 172.31.109.70/08:f1:ea:8d:53:54
+    mxi0: 10.1.87.40/98:03:9b:c9:d6:18
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: 2019/5/25
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: ''
+  price: '74000'
+  size: 2U惠普-整机购买
+  tg:
+    2019/5/29:
+      account_name: 杰尚杰
+      location: 中信期货移动二期机房
+CN791600KW:
+  HostName: ciytradea1
+  NICS:
+    iga0: 172.31.109.76/08:f1:ea:8d:52:64
+    mxi0: 10.1.87.43/98:03:9b:c9:d6:0c
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: 2019/5/25
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: ''
+  price: '74000'
+  size: 2U惠普-整机购买
+  tg:
+    2019/5/29:
+      account_name: 杰尚杰
+      location: 中信期货移动二期机房
 CN7918013W:
   HostName: ciyconn13
   NICS:
@@ -1757,14 +1876,26 @@ CN7918013W:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn13
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
     2019/6/5:
       account_name: 王琦
       location: 中信期货移动二期机房
+CN7918013X:
+  HostName: furion19
+  NICS:
+    ens1f0: 10.1.32.42/98:03:9b:88:81:8e
+  ProductName: ProLiant DL360 Gen10
+  Status: online
+  buy_date: None
+  cur_location: 公司（九江路501号）
+  note: ''
+  price: None
+  size: 2U惠普-整机购买
+  tg: {}
 CN7918013Y:
   HostName: ciyconn18
   NICS:
@@ -1773,8 +1904,8 @@ CN7918013Y:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn18
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1789,8 +1920,8 @@ CN7918013Z:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn7
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1805,8 +1936,8 @@ CN79180140:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn12
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1821,8 +1952,8 @@ CN79180141:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn9
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1837,8 +1968,8 @@ CN79180142:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn8
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1853,8 +1984,8 @@ CN79180143:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn11
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1869,8 +2000,8 @@ CN79180144:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn10
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1885,8 +2016,8 @@ CN79180145:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn6
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1901,8 +2032,8 @@ CN79180146:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn3
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1917,14 +2048,27 @@ CN79180147:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn5
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
     2019/6/5:
       account_name: 上海麦缔思
       location: 中信期货移动二期机房
+CN79180148:
+  HostName: testlab9
+  NICS:
+    br0: 10.1.78.6/80:30:e0:39:07:64
+    ens1f0: 10.1.201.29/98:03:9b:62:26:94
+  ProductName: ProLiant DL360 Gen10
+  Status: online
+  buy_date: 2018/5/30
+  cur_location: 公司（九江路501号）
+  note: 一机一户
+  price: '74500'
+  size: 1U惠普-整机购买
+  tg: {}
 CN79180149:
   HostName: ciyconn19
   NICS:
@@ -1933,8 +2077,8 @@ CN79180149:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn19
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1949,14 +2093,26 @@ CN7918014B:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn14
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
     2019/6/5:
       account_name: 王贵芝
       location: 中信期货移动二期机房
+CN7918014C:
+  HostName: furion17
+  NICS:
+    ens1f0: 10.1.32.40/98:03:9b:88:85:fe
+  ProductName: ProLiant DL360 Gen10
+  Status: online
+  buy_date: None
+  cur_location: 公司（九江路501号）
+  note: ''
+  price: None
+  size: 2U惠普-整机购买
+  tg: {}
 CN7918014D:
   HostName: ciyconn4
   NICS:
@@ -1965,8 +2121,8 @@ CN7918014D:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn4
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
@@ -1981,14 +2137,28 @@ CN7918014F:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn17
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
     2019/6/5:
       account_name: 郑忠阳
       location: 中信期货移动二期机房
+CN7918014G:
+  HostName: cijdatalog
+  NICS:
+    iga0: 172.31.0.146/80:30:e0:39:07:44
+    mxf0: 156.156.156.195/98:03:9b:88:85:fa
+    mxi0: 10.1.81.22/98:03:9b:88:85:fb
+  ProductName: ProLiant DL360 Gen10
+  Status: online
+  buy_date: None
+  cur_location: 张江机房（乐昌路399号）
+  note: ''
+  price: None
+  size: 2U惠普-整机购买
+  tg: {}
 CN7918014H:
   HostName: ciyconn2
   NICS:
@@ -1997,13 +2167,29 @@ CN7918014H:
   ProductName: ProLiant DL360 Gen10
   Status: online
   buy_date: 2018/5/30
-  cur_location: 中信期货移动机房一期（宁桥路500号）
-  it_name: ciyconn2
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: 一机一户
   price: '74500'
   size: 1U惠普-整机购买
   tg:
     2019/6/5:
       account_name: 曾海东
+      location: 中信期货移动二期机房
+CN791807KF:
+  HostName: ciytradea2
+  NICS:
+    iga0: 172.31.109.78/08:f1:ea:91:68:60
+    mxi0: 10.1.87.44/98:03:9b:3a:fd:ba
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: 2019/5/25
+  cur_location: 中信期货移动机房二期（宁桥路500号）
+  note: ''
+  price: '74000'
+  size: 2U惠普-整机购买
+  tg:
+    2019/5/29:
+      account_name: 杰尚杰
       location: 中信期货移动二期机房
 P1K65CE50CT1015:
   HostName: furion20
@@ -2013,7 +2199,7 @@ P1K65CE50CT1015:
   Status: online
   buy_date: 2015/7/31
   cur_location: 公司（九江路501号）
-  it_name: furion20
+  note: ''
   price: '242400'
   size: 4U超微-整机购买
   tg:
@@ -2029,3 +2215,18 @@ P1K65CE50CT1015:
     2016/12/2:
       account_name: ''
       location: 机柜2（ 7-10U）
+SGH908TN4H:
+  HostName: hkgquote1
+  NICS:
+    iga0: 10.250.1.139/08:f1:ea:8b:28:58
+    igi0: 172.27.110.42/08:f1:ea:8b:28:59
+    mxf0.3851: 10.210.71.178/98:03:9b:0e:9b:ba
+    mxf1.3852: 10.210.71.186/98:03:9b:0e:9b:bb
+  ProductName: ProLiant DL380 Gen10
+  Status: online
+  buy_date: None
+  cur_location: 香港数据中心
+  note: ''
+  price: None
+  size: 2U惠普-整机购买
+  tg: {}

@@ -2,667 +2,182 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41845585-d9e1-454b-b629-d7cc215e812e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/01-sc84830-xx00t103" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU504705P" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU524VCBE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU524VCBK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU524VCBM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU524VCBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU524VCCH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU524VCCP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU533YW6M" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU536VSNL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU542XD2J" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU542XD2W" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU542XD35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU542XD37" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU543Y5RC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU552YYAV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU611X7B2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU611X7BM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU611X7C4 " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU611X7CH " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU611X7F3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU611X7FY " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU616YVJH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU617WKH9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU625X7D7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU638V48H" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU638V4WM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU638V52S" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU639X113" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU63V4BB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU7102LRR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU720LBPN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU7328EDC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU747C6DV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU747C6E3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU8041R21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU8041R28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU80527K5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU80527KC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU819W8L0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU831JKNH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU831JKQT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU831JKR6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU836QMPM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU836QMQ1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU8422L03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU8422ZTR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/6CU8422ZXL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C81500A37LM0077" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C81500A37LM0083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C81500A37LM0091" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FD48N10250" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FD50N10039" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FD50N10044" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FE01N10350" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FE01N10353" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FE01N10381" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FE07N10097" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FE07N10118" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FE07N10119" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FE39N30122" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FE39N30123" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FE39N30130" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8250FE39N30131" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/C8260FE28N20695" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CB150LD45N30038" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CB150LD45N30059" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CB150LD45N30066" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN77070CYV " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN783805LH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN784605XM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN784605XN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN784605XQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN784605XR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN784605XS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN784605XT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN78480260" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN7849046D" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN7849046K" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN7849046Q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN7849046R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN79080PJQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN79130617" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_2/CN7916061Y" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cdgquip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cdgquip2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cijdatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cijquip4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cijtradeb1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn16" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn17" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn18" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn19" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyconn9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciydatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciydatalog2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciyquote2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciytrade1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciytrade2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciytradea1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciytradea2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciytradea3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciytradea4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciytrip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/ciytrip2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cszdatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cszquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/csztradea1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/csztradea2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/csztrip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cwgdatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cwgquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cwgtradea1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cwgtradea2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/cwgtrip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/gdsquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/haiconn1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/haiconn2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/haidatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/haiquip5-mstp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/haiquip8-mstp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/haiquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/haitradea1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/haitradea2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/haitrip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/hkgquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/huwquip2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/wksquip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/wksquip2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ansible-out/zhyquip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmdb.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cols/cust_cols.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cols/cust_ser.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cols/cust_ser.conf.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU504705P" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU524VCBE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU524VCBK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU524VCBM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU524VCBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU524VCCH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU524VCCP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU533YW6M" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU536VSNL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU542XD2J" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU542XD2W" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU542XD35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU542XD37" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU543Y5RC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU552YYAV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU611X7B2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU611X7BM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU611X7C4 " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU611X7CH " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU611X7F3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU611X7FY " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU616YVJH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU617WKH9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU625X7D7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU638V48H" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU638V4WM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU638V52S" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU639X113" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU63V4BB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU7102LRR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU720LBPN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU7328EDC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU747C6DV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU747C6E3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU8041R21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU8041R28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU80527K5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU80527KC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU819W8L0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU831JKNH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU831JKQT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU831JKR6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU836QMPM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU836QMQ1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU8422L03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU8422ZTR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/6CU8422ZXL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C81500A37LM0077" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C81500A37LM0083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C81500A37LM0091" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FD48N10250" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FD50N10039" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FD50N10044" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FE01N10350" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FE01N10353" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FE01N10381" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FE07N10097" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FE07N10118" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FE07N10119" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FE39N30122" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FE39N30123" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FE39N30130" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8250FE39N30131" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/C8260FE28N20695" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CB150LD45N30038" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CB150LD45N30059" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CB150LD45N30066" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN77070CYV " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN783805LH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN784605XM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN784605XN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN784605XQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN784605XR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN784605XS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN784605XT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN78480260" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN7849046D" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN7849046K" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN7849046Q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN7849046R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN79080PJQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN79130617" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/CN7916061Y" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/P1K65CE50CT1015" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/.124.csv.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/1222.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/124.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/20190408.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/test123.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/test123.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/g.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hub_out/mdstrademon3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hub_out/mdstrademon4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hub_out/zeus5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cdgquip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cdgquip2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cijdatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cijquip4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cijtradeb1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/ciydatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/ciyquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/ciytrade1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/ciytrade2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/ciytradea3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/ciytradea4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/ciytrip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cszdatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cszquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/csztradea1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/csztradea2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/csztrip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cwgdatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cwgquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cwgtradea1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cwgtradea2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/cwgtrip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/gdsquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/haidatalog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/haiquip3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/haiquip4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/haiquip5-mstp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/haiquip8-mstp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/haiquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/haitradea1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/haitradea2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/haitrip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/hkgquote1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/huwquip2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/wksquip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/wksquip2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-out/zhyquip1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mytest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_custom/testlab1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/01-sc84830-xx00t103" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU504705P" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU524VCBE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU524VCBK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU524VCBM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU524VCBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU524VCCH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU524VCCP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU533YW6M" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU536VSNL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU542XD2J" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU542XD2W" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU542XD35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU542XD37" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU543Y5RC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU552YYAV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU611X7B2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU611X7BM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU611X7C4 " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU611X7CH " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU611X7F3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU611X7FY " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU616YVJH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU617WKH9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU625X7D7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU638V48H" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU638V4WM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU638V52S" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU639X113" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU63V4BB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU7102LRR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU720LBPN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU7328EDC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU747C6DV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU747C6E3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU8041R21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU8041R28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU80527K5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU80527KC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU819W8L0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU831JKNH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU831JKQT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU831JKR6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU836QMPM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU836QMQ1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU8422L03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU8422ZTR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/6CU8422ZXL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C81500A37LM0077" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C81500A37LM0083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C81500A37LM0091" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FD48N10250" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FD50N10039" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FD50N10044" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FE01N10350" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FE01N10353" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FE01N10381" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FE07N10097" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FE07N10118" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FE07N10119" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FE39N30122" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FE39N30123" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FE39N30130" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8250FE39N30131" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/C8260FE28N20695" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CB150LD45N30038" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CB150LD45N30059" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CB150LD45N30066" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN77070CYV " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN783805LH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN784605XM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN784605XN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN784605XQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN784605XR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN784605XS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN784605XT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN78480260" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN7849046D" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN7849046K" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN7849046Q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN7849046R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN79080PJQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN79130617" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser/CN7916061Y" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/01-sc84830-xx00t103" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU504705P" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU524VCBE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU524VCBK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU524VCBM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU524VCBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU524VCCH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU524VCCP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU533YW6M" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU536VSNL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU542XD2J" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU542XD2W" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU542XD35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU542XD37" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU543Y5RC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU552YYAV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU611X7B2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU611X7BM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU611X7C4 " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU611X7CH " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU611X7F3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU611X7FY " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU616YVJH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU617WKH9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU625X7D7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU638V48H" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU638V4WM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU638V52S" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU639X113" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU63V4BB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU7102LRR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU720LBPN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU7328EDC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU747C6DV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU747C6E3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU8041R21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU8041R28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU80527K5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU80527KC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU819W8L0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU831JKNH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU831JKQT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU831JKR6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU836QMPM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU836QMQ1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU8422L03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU8422ZTR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/6CU8422ZXL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C81500A37LM0077" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C81500A37LM0083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C81500A37LM0091" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FD48N10250" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FD50N10039" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FD50N10044" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FE01N10350" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FE01N10353" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FE01N10381" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FE07N10097" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FE07N10118" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FE07N10119" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FE39N30122" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FE39N30123" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FE39N30130" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8250FE39N30131" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/C8260FE28N20695" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CB150LD45N30038" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CB150LD45N30059" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CB150LD45N30066" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN77070CYV " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN783805LH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN784605XM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN784605XN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN784605XQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN784605XR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN784605XS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN784605XT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN78480260" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN7849046D" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN7849046K" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN7849046Q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN7849046R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN79080PJQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN79130617" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser1/CN7916061Y" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/01-sc84830-xx00t103" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU504705P" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU524VCBE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU524VCBK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU524VCBM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU524VCBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU524VCCH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU524VCCP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU533YW6M" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU536VSNL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU542XD2J" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU542XD2W" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU542XD35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU542XD37" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU543Y5RC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU552YYAV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU611X7B2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU611X7BM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU611X7C4 " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU611X7CH " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU611X7F3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU611X7FY " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU616YVJH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU617WKH9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU625X7D7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU638V48H" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU638V4WM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU638V52S" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU639X113" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU63V4BB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU7102LRR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU720LBPN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU7328EDC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU747C6DV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU747C6E3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU8041R21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU8041R28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU80527K5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU80527KC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU819W8L0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU831JKNH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU831JKQT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU831JKR6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU836QMPM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU836QMQ1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU8422L03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU8422ZTR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/6CU8422ZXL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C81500A37LM0077" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C81500A37LM0083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C81500A37LM0091" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FD48N10250" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FD50N10039" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FD50N10044" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FE01N10350" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FE01N10353" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FE01N10381" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FE07N10097" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FE07N10118" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FE07N10119" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FE39N30122" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FE39N30123" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FE39N30130" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8250FE39N30131" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/C8260FE28N20695" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CB150LD45N30038" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CB150LD45N30059" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CB150LD45N30066" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN77070CYV " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN783805LH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN784605XM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN784605XN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN784605XQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN784605XR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN784605XS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN784605XT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN78480260" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN7849046D" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN7849046K" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN7849046Q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN7849046R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN79080PJQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN79130617" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/CN7916061Y" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/01-sc84830-xx00t103" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU504705P" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU524VCBE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU524VCBK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU524VCBM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU524VCBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU524VCCH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU524VCCP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU533YW6M" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU536VSNL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU542XD2J" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU542XD2W" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU542XD35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU542XD37" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU543Y5RC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU552YYAV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU611X7B2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU611X7BM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU611X7C4 " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU611X7CH " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU611X7F3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU611X7FY " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU616YVJH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU617WKH9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU625X7D7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU638V48H" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU638V4WM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU638V52S" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU639X113" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU63V4BB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU7102LRR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU720LBPN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU7328EDC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU747C6DV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU747C6E3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU8041R21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU8041R28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU80527K5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU80527KC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU819W8L0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU831JKNH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU831JKQT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU831JKR6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU836QMPM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU836QMQ1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU8422L03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU8422ZTR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/6CU8422ZXL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C81500A37LM0077" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C81500A37LM0083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C81500A37LM0091" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FD48N10250" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FD50N10039" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FD50N10044" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FE01N10350" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FE01N10353" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FE01N10381" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FE07N10097" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FE07N10118" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FE07N10119" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FE39N30122" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FE39N30123" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FE39N30130" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8250FE39N30131" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/C8260FE28N20695" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CB150LD45N30038" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CB150LD45N30059" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CB150LD45N30066" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN77070CYV " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN783805LH" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN784605XM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN784605XN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN784605XQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN784605XR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN784605XS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN784605XT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN78480260" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN7849046D" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN7849046K" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN7849046Q" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN7849046R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN79080PJQ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN79130617" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_ser3/conf/CN7916061Y" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion16" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion17" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion18" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion19" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion20" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion22" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/furion9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/haitrademon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/haitrademon2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/testlab1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/testlab2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/testlab3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/testlab4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/testlab5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/testlab6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/testlab8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/utilserver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/vhost1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/zeus1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/zeus2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/zeus3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/zeus4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readcsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readlive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/6CU831JKR6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testyml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tpl/mds_cust.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateyml.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cols/cust_ser.conf" beforeDir="false" afterPath="$PROJECT_DIR$/cols/cust_ser.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU504705P" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU504705P" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU524VCBE" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU524VCBE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU524VCBK" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU524VCBK" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU524VCBM" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU524VCBM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU524VCBX" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU524VCBX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU524VCCH" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU524VCCH" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU524VCCP" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU524VCCP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU533YW6M" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU533YW6M" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU536VSNL" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU536VSNL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU542XD2J" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU542XD2J" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU542XD2W" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU542XD2W" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU542XD35" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU542XD35" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU542XD37" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU542XD37" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU543Y5RC" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU543Y5RC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU552YYAV" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU552YYAV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU611X7B2" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU611X7B2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU611X7BM" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU611X7BM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU611X7C4" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU611X7C4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU611X7C4 " beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU611X7CH" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU611X7CH" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU611X7CH " beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU611X7F3" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU611X7F3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU611X7FY" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU611X7FY" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU611X7FY " beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU616YVJH" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU616YVJH" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU617WKH9" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU617WKH9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU625X7D7" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU625X7D7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU638V48H" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU638V48H" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU638V4WM" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU638V4WM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU638V52S" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU638V52S" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU639X113" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU639X113" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU63V4BB" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU7102LRR" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU7102LRR" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU720LBPN" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU720LBPN" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU7328EDC" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU7328EDC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU747C6DV" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU747C6DV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU747C6E3" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU747C6E3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU8041R21" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU8041R21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU8041R28" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU8041R28" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU80527K5" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU80527K5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU80527KC" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU80527KC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU819W8L0" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU819W8L0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU831JKNH" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU831JKNH" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU831JKQT" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU831JKQT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU831JKR6" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU831JKR6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU836QMPM" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU836QMPM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU836QMQ1" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU836QMQ1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU8422L03" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU8422L03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU8422ZTR" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU8422ZTR" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/6CU8422ZXL" beforeDir="false" afterPath="$PROJECT_DIR$/conf/6CU8422ZXL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C81500A37LM0077" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C81500A37LM0077" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C81500A37LM0083" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C81500A37LM0083" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C81500A37LM0091" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C81500A37LM0091" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FD48N10250" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FD48N10250" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FD50N10039" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FD50N10039" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FD50N10044" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FD50N10044" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FE01N10350" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FE01N10350" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FE01N10353" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FE01N10353" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FE01N10381" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FE01N10381" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FE07N10097" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FE07N10097" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FE07N10118" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FE07N10118" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FE07N10119" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FE07N10119" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FE39N30122" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FE39N30122" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FE39N30123" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FE39N30123" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FE39N30130" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FE39N30130" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8250FE39N30131" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8250FE39N30131" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/C8260FE28N20695" beforeDir="false" afterPath="$PROJECT_DIR$/conf/C8260FE28N20695" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CB150LD45N30038" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CB150LD45N30038" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CB150LD45N30059" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CB150LD45N30059" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CB150LD45N30066" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CB150LD45N30066" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN77070CYV" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN77070CYV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN783805LH" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN783805LH" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN784605XM" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN784605XM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN784605XN" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN784605XN" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN784605XQ" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN784605XQ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN784605XR" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN784605XR" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN784605XS" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN784605XS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN784605XT" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN784605XT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN78480260" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN78480260" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7849046D" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7849046D" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7849046K" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7849046K" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7849046Q" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7849046Q" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7849046R" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7849046R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79080PJQ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79130617" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN79130617" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7916061Y" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7918013W" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7918013W" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7918013Y" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7918013Y" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7918013Z" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7918013Z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79180140" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN79180140" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79180141" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN79180141" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79180142" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN79180142" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79180143" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN79180143" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79180144" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN79180144" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79180145" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN79180145" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79180146" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN79180146" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79180147" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN79180147" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN79180149" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN79180149" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7918014B" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7918014B" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7918014D" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7918014D" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7918014F" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7918014F" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/CN7918014H" beforeDir="false" afterPath="$PROJECT_DIR$/conf/CN7918014H" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/P1K65CE50CT1015" beforeDir="false" afterPath="$PROJECT_DIR$/conf/P1K65CE50CT1015" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/test123.csv" beforeDir="false" afterPath="$PROJECT_DIR$/file/test123.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cdgquip1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cdgquip2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cijdatalog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cijquip4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cijtradeb1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyconn9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciydatalog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciydatalog2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyquote1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciyquote2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciytrade1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciytrade2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciytradea1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciytradea2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciytradea3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciytradea4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciytrip1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/ciytrip2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cszdatalog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cszquote1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/csztradea1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/csztradea2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/csztrip1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cwgdatalog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cwgquote1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cwgtradea1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cwgtradea2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/cwgtrip1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/gdsquote1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haiconn1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haiconn2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haidatalog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haiquip3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haiquip4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haiquip5-mstp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haiquip8-mstp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haiquote1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haitradea1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haitradea2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/haitrip1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/hkgquote1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/huwquip2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/wksquip1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/wksquip2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-out/zhyquip1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readlive.py" beforeDir="false" afterPath="$PROJECT_DIR$/readlive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_detail.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server_detail.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -671,33 +186,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/readcsv.py">
+        <entry file="file://$PROJECT_DIR$/server_detail.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="1520">
+              <caret line="2219" lean-forward="true" selection-start-line="2219" selection-end-line="2219" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/updateyml.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
-                <element signature="e#24#34#0" expanded="true" />
+                <element signature="e#24#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file/124.csv">
+        <entry file="file://$PROJECT_DIR$/cols/cust_ser.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-end-column="4" />
+            <state relative-caret-position="237">
+              <caret line="140" column="13" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readlive.py">
+        <entry file="file://$PROJECT_DIR$/makeconfig.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="146" column="50" selection-start-line="146" selection-start-column="50" selection-end-line="146" selection-end-column="50" />
+            <state relative-caret-position="212">
+              <caret line="129" column="1" lean-forward="true" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
               <folding>
                 <element signature="e#20#31#0" expanded="true" />
               </folding>
@@ -706,29 +230,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/yaml/__init__.py">
+        <entry file="file://$PROJECT_DIR$/readlive.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="303" column="7" lean-forward="true" selection-start-line="303" selection-start-column="7" selection-end-line="303" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/g.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf/6CU524VCCP">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="205" selection-end-column="378" />
+            <state relative-caret-position="137">
+              <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+              <folding>
+                <element signature="e#20#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CN77070CYV</find>
+      <find>cur</find>
+      <find>6CU638V48H</find>
+      <find>cur_location</find>
+      <find>furion20</find>
+      <find>furion</find>
+      <find>6cu638</find>
+      <find>6cu63</find>
+      <find>6CU543Y5RC</find>
+      <find>6CU536VSNL</find>
+      <find>V4wm</find>
+      <find>6cu638v</find>
+      <find>C8250FD48N10250</find>
+      <find>C8250FE07N10118</find>
+      <find>furion2</find>
+      <find>C8250FD50N10044</find>
+      <find>CN79080PJQ</find>
+      <find>CN7916061Y</find>
+      <find>title</find>
+      <find>haitradea</find>
+      <find>6CU836QMPM 6CU836QMPM</find>
+      <find>changed</find>
+      <find>6CU836QMPM</find>
+      <find>cdgquip3</find>
+      <find>QMPM</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -736,22 +285,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/conf/CN77070CYV" />
+        <option value="$PROJECT_DIR$/file/test123.csv" />
         <option value="$PROJECT_DIR$/readcsv.py" />
+        <option value="$PROJECT_DIR$/conf/6CU524VCBX" />
+        <option value="$PROJECT_DIR$/readyml.py" />
+        <option value="$PROJECT_DIR$/cols/cust_ser.conf" />
+        <option value="$PROJECT_DIR$/tpl/html_fancy.tpl" />
+        <option value="$PROJECT_DIR$/tpl/mds_cust.tpl" />
+        <option value="$PROJECT_DIR$/testyml.py" />
+        <option value="$PROJECT_DIR$/server_detail.yml" />
         <option value="$PROJECT_DIR$/readlive.py" />
+        <option value="$PROJECT_DIR$/updateyml.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="164" />
-    <option name="y" value="353" />
-    <option name="width" value="1360" />
+    <option name="y" value="360" />
+    <option name="width" value="1350" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -768,6 +320,11 @@
               <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
               <item name="cmdb" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cmdb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmdb" type="462c0819:PsiDirectoryNode" />
+              <item name="cols" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -775,11 +332,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -793,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.readlive">
+  <component name="RunManager" selected="Python.readyml (1)">
     <configuration name="readcsv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cmdb" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -816,7 +379,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="readlive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="readlive (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cmdb" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -838,10 +401,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="readlive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/makeconfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readyml (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/updateyml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readyml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cmdb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testyml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.readlive" />
+        <item itemvalue="Python.readyml (1)" />
         <item itemvalue="Python.readcsv" />
+        <item itemvalue="Python.readlive (1)" />
+        <item itemvalue="Python.readlive" />
+        <item itemvalue="Python.readyml" />
       </list>
     </recent_temporary>
   </component>
@@ -855,48 +487,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561873677477</updated>
-      <workItem from="1561873678606" duration="5392000" />
+      <workItem from="1561873678606" duration="75482000" />
+      <workItem from="1562061388652" duration="11749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5392000" />
+    <option name="totallyTimeSpent" value="87231000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="358" width="1920" height="1082" extended-state="6" />
+    <frame x="0" y="358" width="1920" height="1082" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17395945" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17609392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32948583" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32948583" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948583" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.2633788" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32948583" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32948583" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010672" side_tool="true" visible="true" weight="0.32948583" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49893278" visible="true" weight="0.32948583" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32948583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cmdb$readlive.coverage" NAME="readlive Coverage Results" MODIFIED="1561878640265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cmdb$readcsv.coverage" NAME="readcsv Coverage Results" MODIFIED="1561877552854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmdb$readyml__1_.coverage" NAME="readyml (1) Coverage Results" MODIFIED="1562119459766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmdb$readlive.coverage" NAME="readlive Coverage Results" MODIFIED="1561981848289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmdb$readcsv.coverage" NAME="readcsv Coverage Results" MODIFIED="1562064266332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmdb$readyml.coverage" NAME="readyml Coverage Results" MODIFIED="1561976585042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cmdb$readlive__1_.coverage" NAME="readlive (1) Coverage Results" MODIFIED="1562033727578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/file/124.csv">
@@ -907,36 +552,214 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/g.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU536VSNL">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/yaml/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="303" column="7" lean-forward="true" selection-start-line="303" selection-start-column="7" selection-end-line="303" selection-end-column="7" />
+        <state relative-caret-position="-5248">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/CN77070CYV " />
+    <entry file="file://$PROJECT_DIR$/conf/CN77070CYV">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="163" lean-forward="true" selection-start-column="163" selection-end-column="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/CN7918013Y">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/CN79180141">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <folding>
+            <element signature="e#23#29#0" expanded="true" />
+            <element signature="e#79#85#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU63V4BB" />
+    <entry file="file://$PROJECT_DIR$/conf/6CU524VCBE.yml" />
+    <entry file="file://$PROJECT_DIR$/conf/6CU524VCCP.yml" />
+    <entry file="file://$PROJECT_DIR$/conf/CN783805LH">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="204" selection-start-column="192" selection-end-column="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="217" column="28" selection-start-line="217" selection-start-column="28" selection-end-line="217" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU617WKH9">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/CN784605XM">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU611X7B2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="78" selection-start-column="78" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU8422ZVF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU638V4BB">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/6CU524VCCP">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="205" selection-end-column="378" />
+          <caret column="205" selection-end-column="409" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU524VCBX">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU611X7CH">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU533YW6M">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU524VCBK">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU542XD2J">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU524VCCH">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU524VCBE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/test123.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="212" column="35" selection-start-line="212" selection-start-column="28" selection-end-line="212" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cols/cust_ser.conf.bak">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/6CU542XD2W">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="117" selection-start-column="113" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpl/mds_cust.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpl/html_fancy_custom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testyml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readcsv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="305">
+          <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
           <folding>
             <element signature="e#24#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tpl/html_fancy.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server_detail.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="2219" lean-forward="true" selection-start-line="2219" selection-end-line="2219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/updateyml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cols/cust_ser.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="140" column="13" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readlive.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="146" column="50" selection-start-line="146" selection-start-column="50" selection-end-line="146" selection-end-column="50" />
+        <state relative-caret-position="137">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="e#20#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/makeconfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="129" column="1" lean-forward="true" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
           <folding>
             <element signature="e#20#31#0" expanded="true" />
           </folding>
