@@ -19,4 +19,4 @@
 ## git
 
 ### git push local branch to remote master
-- git push origin master
+- git push origin  HEAD:master
