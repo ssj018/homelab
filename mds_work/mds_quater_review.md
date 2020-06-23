@@ -58,9 +58,7 @@
 
 13. take back ciytradea3/a4/trip1
 
-- 
-
-13.
+14. renew cert of citrix adc
 
 ## what has been done
 
@@ -88,4 +86,5 @@
 17. collectd switches syslog to office and added a logviewer
 18. added a xenserver for dev machine 
 19. setup network for HK
+20. debug multicast issue of hkgquote1 with core
  

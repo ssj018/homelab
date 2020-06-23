@@ -111,5 +111,3 @@
    - VTP server and clients are synchronized to latest revision number (low revision number sync with higher revision number)
    - Set password to auth: vtp password XXXX
    - VTP pruning
-   
-
