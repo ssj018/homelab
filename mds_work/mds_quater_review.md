@@ -87,4 +87,4 @@
 18. added a xenserver for dev machine 
 19. setup network for HK
 20. debug multicast issue of hkgquote1 with core
- 
+21. create mail box for maidisheng
