@@ -20,7 +20,7 @@ def mail_logs(logs_info):
 #        smtpobj=smtplib.SMTP()
 #        smtpobj.connect(mail_host,mail_port)
         smtpobj=smtplib.SMTP_SSL(mail_host, smtplib.SMTP_SSL_PORT)
-        smtpobj.set_debuglevel(1)
+#        smtpobj.set_debuglevel(1)
         smtpobj.login(mail_user,mail_pass)
         smtpobj.sendmail(mail_user,mail_receiver,mail_message)
         smtpobj.close
@@ -51,6 +51,6 @@ def query_cisco_syslogs(host, user, passwd, dbname):
 
 if __name__ == "__main__":
     logs_info={}
-    logs=query_cisco_syslogs('10.1.79.199','rsyslog','Password', 'Syslog')
+    logs=query_cisco_syslogs('utilserver2','rsyslog','Password', 'Syslog')
     if logs:
         mail_logs(logs)
