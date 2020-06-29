@@ -52,23 +52,21 @@
 
 - ciy2 done
 
-8.teist snmp collect of switches
+8.test snmp collect of switches
 
 11.deploy ospf on colos
 
 13. take back ciytradea3/a4/trip1
 
-14. renew cert of citrix adc
+14. purchase workstation for ouyangliu
+15. renew license of citrix 
 
 ## what has been done
 
 1. investigate fiber issue between cwg and gds
-
   - changed the fiber modules from 10KM to 40KM
-
 2. investigate telecom internet down at middle night
-
-  - mv qnap vpn from  telecom to unicome as a  workaround
+  - mv qnap vpn from  telecom to unicome as a  workaround 
 3. replace ciytradea4 with ciara server
 4. added nic for hkgquote1
 5. add 10g nic for mdstrademon3/4
@@ -88,3 +86,4 @@
 19. setup network for HK
 20. debug multicast issue of hkgquote1 with core
 21. create mail box for maidisheng
+22. renew cert of citrix adc

@@ -23,8 +23,12 @@
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## python
 fnctl 
+=======
+## http
+>>>>>>> Stashed changes
 =======
 ## http
 >>>>>>> Stashed changes
