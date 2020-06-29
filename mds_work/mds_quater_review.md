@@ -39,36 +39,25 @@
 ## TODO
 
 3.add vpn network on gds
-
-4.multicast acl setup
-
 5.replace X4 card with X5 card
-
 - cwgdatalog
 - ciydatalog2
 - cijquip4 and cijdatalog
-
 6.investigate ilo sensor of 6148
 
 - ciy2 done
-
-8.teist snmp collect of switches
-
+8.test snmp collect of switches
 11.deploy ospf on colos
-
 13. take back ciytradea3/a4/trip1
-
-14. renew cert of citrix adc
+14. purchase workstation for ouyangliu
+15. renew license of citrix
 
 ## what has been done
 
 1. investigate fiber issue between cwg and gds
-
   - changed the fiber modules from 10KM to 40KM
-
 2. investigate telecom internet down at middle night
-
-  - mv qnap vpn from  telecom to unicome as a  workaround
+  - mv qnap vpn from  telecom to unicome as a  workaround 
 3. replace ciytradea4 with ciara server
 4. added nic for hkgquote1
 5. add 10g nic for mdstrademon3/4
@@ -82,9 +71,11 @@
 13. added 3 new servers to csz
 14. fixed haisw1 fan's issue
 15. fixed gds servers cable issue
-16. added 2 csztrade server in citic future 
+16. added 2 csztrade server in citic future
 17. collectd switches syslog to office and added a logviewer
-18. added a xenserver for dev machine 
+18. added a xenserver for dev machine
 19. setup network for HK
 20. debug multicast issue of hkgquote1 with core
 21. create mail box for maidisheng
+22. renew cert of citrix adc
+23. test multicast acl setup

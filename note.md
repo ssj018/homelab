@@ -21,5 +21,48 @@
 ### git push local branch to remote master
 - git push origin  HEAD:master
 
+
+
 ## python
-fnctl 
+### str and bytes
+
+- bytes: bit stream, like:01010001110.  Everything in computer are stored as bytes
+- human can not read/write by bytes. so every software we used  should decode byte to str for read and encode str to byte for write in computer
+- there are many encoding methods : ascii, GBK,unicode(utf-8)
+- when we use python read or store `str`, python will auto encode/decode for us
+
+
+```
+>>> a = "a"
+>>> a
+'a'
+>>> type(a)
+<class 'str'>
+
+>>> b = "禅"
+>>> b
+'禅'
+>>> type(b)
+<class 'str'>
+```
+
+- python3 has a class `bytes` to define a data as bytes type, when use `bytes` means tell python do not auto encode/decode , we deal with it by ourself.
+```
+>>> c = b'a'
+>>> c
+b'a'
+>>> type(c)
+<class 'bytes'>
+
+>>> d = b'\xe7\xa6\x85'
+>>> d
+b'\xe7\xa6\x85'
+>>> type(d)
+<class 'bytes'>
+>>>
+
+>>> e = b'禅'
+  File "<stdin>", line 1
+SyntaxError: bytes can only contain ASCII literal characters.
+```
+To  define a bytes type data, just add `b` before the object.The bytes type can be characters in the ASCII range and other hexadecimal character data
