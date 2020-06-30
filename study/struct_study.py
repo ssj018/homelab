@@ -2,6 +2,7 @@ import struct
 
 a = 1234
 
-bytes = struct.pack('i',a)
+bin_a = struct.pack('h',a)
+bin_a = struct.pack('i',a)
 
-print(bin(a))
+print(bin_a)
