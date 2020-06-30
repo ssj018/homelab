@@ -31,7 +31,6 @@ def translate_multicastip_to_multicastmac(mcastip):
         print(mcastip, '-'.join(mac_mcast_humen)) 
     else:
         print('{} is not a mcast ip'.format(mcastip))
-    
 
 
 if __name__ == '__main__':
