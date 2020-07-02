@@ -25,11 +25,17 @@
 
 ## python
 ### str and bytes
+1. To store anything in a computer, you must first encode it, i.e. convert it to bytes. For example:
 
-- bytes: bit stream, like:01010001110.  Everything in computer are stored as bytes
-- human can not read/write by bytes. so every software we used  should decode byte to str for read and encode str to byte for write in computer
-- there are many encoding methods : ascii, GBK,unicode(utf-8)
-- when we use python read or store `str`, python will auto encode/decode for us
+- If you want to store music, you must first encode it using MP3, WAV, etc.
+- If you want to store a picture, you must first encode it using PNG, JPEG, etc.
+- If you want to store text, you must first encode it using ASCII, UTF-8, etc.
+
+MP3, WAV, PNG, JPEG, ASCII and UTF-8 are examples of encodings. An encoding is a format to represent audio, images, text, etc in bytes.
+
+2. human can not read/write by bytes. so every software we used  should decode byte to str for read and encode str to byte for write in computer
+
+3. when we use python read or store `str`, python will auto encode/decode for us
 
 
 ```
@@ -46,7 +52,7 @@
 <class 'str'>
 ```
 
-- python3 has a class `bytes` to define a data as bytes type, when use `bytes` means tell python do not auto encode/decode , we deal with it by ourself.
+4 python3 has a class `bytes` to define a data as bytes type, when use `bytes` means tell python do not auto encode/decode , we deal with it by ourself.
 ```
 >>> c = b'a'
 >>> c
@@ -65,4 +71,114 @@ b'\xe7\xa6\x85'
   File "<stdin>", line 1
 SyntaxError: bytes can only contain ASCII literal characters.
 ```
-To  define a bytes type data, just add `b` before the object.The bytes type can be characters in the ASCII range and other hexadecimal character data
+**In Python, a byte string is represented by a b, followed by the byte string's ASCII representation.If the bytes is out of ASCII, it will represent by hexadecimal data of the byes**
+To  define a bytes type data, just add `b` before the object.The bytes type can be characters in the ASCII range and other hexadecimal  data
+
+### data(bin, oct ,hex, decimal)
+- represent:
+```
+bin: 0b1
+oct: 0o1
+hex: 0x1
+dec: 0d1
+```
+- data type: The same data in different bases is the same in memory (address, size, type)
+```
+import sys
+import prettytable as pt
+
+
+
+mydict = {
+    '1': 1,
+    '0b1': 0b1,
+    '0o1': 0o1,
+    '0x1': 0x1,
+    'int(\'f\',16)': int('f',16),
+    'hex(int(\'17\',8))': hex(int('17',8)),
+    '0xe7': 0xe7,
+    '\'\\xe7\'': '\xe7',
+    'b\'xe7\'': b'xe7'
+}
+
+
+
+
+if __name__ == "__main__":
+    tb = pt.PrettyTable()
+    tb.field_names= ["Expression","Value","Type","Memort address","Memory size"]
+    for i in mydict:
+        tb.add_row([i, mydict[i], type(mydict[i]), id(mydict[i]), sys.getsizeof(mydict[i])])
+
+    print(tb)
+
+
+output:
++------------------+--------+-----------------+-----------------+-------------+
+|    Expression    | Value  |       Type      |  Memort address | Memory size |
++------------------+--------+-----------------+-----------------+-------------+
+|        1         |   1    |  <class 'int'>  |     10914496    |      28     |
+|       0b1        |   1    |  <class 'int'>  |     10914496    |      28     |
+|       0o1        |   1    |  <class 'int'>  |     10914496    |      28     |
+|       0x1        |   1    |  <class 'int'>  |     10914496    |      28     |
+|   int('f',16)    |   15   |  <class 'int'>  |     10914944    |      28     |
+| hex(int('17',8)) |  0xf   |  <class 'str'>  | 139754689103440 |      52     |
+|       0xe7       |  231   |  <class 'int'>  |     10921856    |      28     |
+|      '\xe7'      |   ç    |  <class 'str'>  | 139754720157328 |      74     |
+|      b'xe7'      | b'xe7' | <class 'bytes'> | 139754689154264 |      36     |
++------------------+--------+-----------------+-----------------+-------------+
+```
+- convert
+   - to dec(int()):
+   ```
+   >>> int('f',16) 
+   15
+   >>> int('10100111110',2)      
+   1342
+   >>> int('17',8)    
+   15
+   ```
+   - to hex(hex()):
+   ```
+   >>> hex(1033)
+   '0x409'
+   >>> hex(int('101010',2)) #convert to decimal first
+   '0x2a
+   >>> hex(int('17',8)) #convert to decimal first
+   '0xf'
+
+   ```
+   - to binary (bin()):
+   ```
+   >>> bin(10)
+   '0b1010'
+   >>> bin(int('ff',16))#convert to decimal first
+   '0b11111111'
+   >>> bin(int('17',8))#convert to decimal first
+   '0b1111'
+
+   ```
+   - to oct(oct()):
+   ```
+   >>> oct(0b1010)        
+   '012'
+  >>> oct(11)
+  '013'
+  >>> oct(0xf) 
+  '017'
+   ```
+
+### Conceptual misunderstanding
+```
++------------------+--------+-----------------+-----------------+-------------+
+|    Expression    | Value  |       Type      |  Memort address | Memory size |
++------------------+--------+-----------------+-----------------+-------------+
+|       0xe7       |  231   |  <class 'int'>  |     10921856    |      28     |
+|      '\xe7'      |   ç    |  <class 'str'>  | 139754720157328 |      74     |
+|      b'xe7'      | b'xe7' | <class 'bytes'> | 139754689154264 |      36     |
++------------------+--------+-----------------+-----------------+-------------+
+```
+-  the first experssion is a hex data, type: int
+-  the second experssion is a character map with the unicode `\xe7`, type: str
+-  the third experssion is a bytes sequence of the characert above **NOT the bytes of the hex data**, type: bytes 
+-  the mac address **00:50:56:c0:00:01**  bytes in  memory or network should be the bytes of the hex data which the string representative 
