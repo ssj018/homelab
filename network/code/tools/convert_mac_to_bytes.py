@@ -1,10 +1,12 @@
 import struct
-def hex_to_int(hexstr):
-    return int(hexstr,16)
+# def hex_to_int(hexstr):
+#     return int(hexstr,16)
+
 
 def Str_to_Int(string):
     hex_list=string.split(":")
-    int_list=map(hex_to_int,hex_list)
+    # int_list=map(hex_to_int,hex_list)
+    int_list = map(lambda x: int(x,16),hex_list)
     return int_list
 
 def convert_mac_bytes(mac):
