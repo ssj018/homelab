@@ -15,5 +15,5 @@ def get_mac(iface):
     return mac_address[0].decode()
 
 if __name__ == "__main__":
-    mac=get_mac('eno1')
+    mac=get_mac('eth0')
     print(mac)
