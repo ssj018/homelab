@@ -169,16 +169,23 @@ output:
    ```
 
 ### Conceptual misunderstanding
+
 ```
-+------------------+--------+-----------------+-----------------+-------------+
-|    Expression    | Value  |       Type      |  Memort address | Memory size |
-+------------------+--------+-----------------+-----------------+-------------+
-|       0xe7       |  231   |  <class 'int'>  |     10921856    |      28     |
-|      '\xe7'      |   ç    |  <class 'str'>  | 139754720157328 |      74     |
-|      b'xe7'      | b'xe7' | <class 'bytes'> | 139754689154264 |      36     |
-+------------------+--------+-----------------+-----------------+-------------+
++------------------+-------------+-------------+-------------+-------------------------+-----------------+-----------------+-------------+
+|    Expression    |    Value    | Bytes_value | Bytes_hex() |       Binary_value      |       Type      |  Memort address | Memory size |
++------------------+-------------+-------------+-------------+-------------------------+-----------------+-----------------+-------------+
+|       0xe7       |     231     |   b'\xe7'   |      e7     |         11100111        |  <class 'int'>  |     10921856    |      28     |
+|     b'\xe7'      |   b'\xe7'   |   b'\xe7'   |      e7     |         11100111        | <class 'bytes'> | 140499710520936 |      34     |
+|      '\xe7'      |      ç      | b'\xc3\xa7' |     c3a7    |     1100001110100111    |  <class 'str'>  | 140499743555136 |      74     |
+|   b'\xc3\xa7'    | b'\xc3\xa7' | b'\xc3\xa7' |     c3a7    |     1100001110100111    | <class 'bytes'> | 140499710519496 |      35     |
+|       xe7        |     xe7     |    b'xe7'   |    786537   | 11110000110010100110111 |  <class 'str'>  | 140499710415512 |      52     |
+|      b'xe7'      |    b'xe7'   |    b'xe7'   |    786537   | 11110000110010100110111 | <class 'bytes'> | 140499710520896 |      36     |
++------------------+-------------+-------------+-------------+-------------------------+-----------------+-----------------+-------------+
 ```
 -  the first experssion is a hex data, type: int
--  the second experssion is a character map with the unicode `\xe7`, type: str
--  the third experssion is a bytes sequence of the characert above **NOT the bytes of the hex data**, type: bytes 
+- the sencond expression is a bytes sequence of the  hex data above, type: bytes
+-  the third experssion is a character map with the unicode `\xe7`, type: str
+-  the fourth experssion is a bytes sequence of the characert above **NOT the bytes of the hex data**, type: bytes 
+-  the fifth experssion is a string 'xe7', type str
+- the six is  experssion a bytes sequence of string above, type: bytes
 -  the mac address **00:50:56:c0:00:01**  bytes in  memory or network should be the bytes of the hex data which the string representative 
