@@ -48,7 +48,7 @@
 - ciy2 done
 8.test snmp collect of switches
 11.deploy ospf on colos
-13. take back ciytradea3/a4/trip1
+
 14. purchase workstation for ouyangliu
 15. renew license of citrix
 
@@ -79,3 +79,4 @@
 21. create mail box for maidisheng
 22. renew cert of citrix adc
 23. test multicast acl setup
+24. take back ciytradea3/a4/trip1
