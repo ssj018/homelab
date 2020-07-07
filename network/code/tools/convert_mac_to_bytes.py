@@ -7,10 +7,10 @@ def Str_to_Int(string):
     hex_list=string.split(":")
     # int_list=map(hex_to_int,hex_list)
     int_list = map(lambda x: int(x,16),hex_list)
-    return int_list
+    return list(int_list)
 
 def convert_mac_bytes(mac):
-    sections =list(Str_to_Int(mac))
+    sections = Str_to_Int(mac)
     mac_bytes = struct.pack('!6B', sections [0], sections [1], sections [2], sections [3], sections [4], sections [5])
     return mac_bytes
 

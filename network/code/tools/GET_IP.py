@@ -4,11 +4,36 @@ import struct
 
 def get_ip_address(ifname):
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    ##inet_ntoa()功能是将网络地址转换成“.”点隔的字符串格式。
+    #
+    #fcntl.ioctl(s.fileno(),0x8915, struct.pack('256s', (ifname[:15]).encode()))
+    #第一个参数： 传入socket文件描述符 
+    #第二个参数： 获取IP的指令
+    #第三个参数： 根据第二参数的指令，需要传入一个参数（接口名字）：struct ifreq 
+    #struct ifreq {
+    #     char ifr_name[IFNAMSIZ]; /* Interface name */
+    #     union {
+    #         struct sockaddr ifr_addr;
+    #         struct sockaddr ifr_dstaddr;
+    #         struct sockaddr ifr_broadaddr;
+    #         struct sockaddr ifr_netmask;
+    #         struct sockaddr ifr_hwaddr;
+    #         short           ifr_flags;
+    #         int             ifr_ifindex;
+    #         int             ifr_metric;
+    #         int             ifr_mtu;
+    #         struct ifmap    ifr_map;
+    #         char            ifr_slave[IFNAMSIZ];
+    #         char            ifr_newname[IFNAMSIZ];
+    #         char           *ifr_data;
+    #     };
+    # };
+    #操作 SIOCGIFADDR 返回的结果也是 struct ifreq 结构体。其中，网卡的 IPv4 地址信息包含在 struct sockaddr ifr_addr 结构体内。
+    # 这个 4 字节的 IP 地址位于 struct ifreq 结构体 20-23 字节处。
+    # 所以我们会看到，fcntl.ioctl 返回的结果后面有 [20:24] ——只需要把这 4 个字节拿去转换就可以了。
     return socket.inet_ntoa(fcntl.ioctl(s.fileno(),0x8915,  # SIOCGIFADDR
     struct.pack('256s', (ifname[:15]).encode()))[20:24])
 
 
 if __name__ == "__main__":
- #   print('eth1'[:15].encode())
-    print((struct.pack('256s', ('eth1'[:15]).encode()))[20:24])
- #   print(get_ip_address('eth1'))
+    print(get_ip_address('eth1'))
