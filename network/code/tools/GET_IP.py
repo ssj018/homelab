@@ -8,7 +8,7 @@ def get_ip_address(ifname):
     #
     #fcntl.ioctl(s.fileno(),0x8915, struct.pack('256s', (ifname[:15]).encode()))
     #第一个参数： 传入socket文件描述符 
-    #第二个参数： 获取IP的指令
+    #第二个参数： 指定操作，（0x8915获取IP的指令）
     #第三个参数： 根据第二参数的指令，需要传入一个参数（接口名字）：struct ifreq 
     #struct ifreq {
     #     char ifr_name[IFNAMSIZ]; /* Interface name */
