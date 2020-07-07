@@ -35,7 +35,8 @@ def get_mac_address(ifname):
     # 这个 4 字节的 IP 地址位于 struct ifreq 结构体 20-23 字节处。
     # 所以我们会看到，fcntl.ioctl 返回的结果后面有 [18:24] ——只需要把这 6 个字节拿去转换就可以了。
     mac_bytes = fcntl.ioctl(s.fileno(),0x8927,  struct.pack('256s', (ifname[:15]).encode()))[18:24]
-  
+    
+    # bytes 类型的数据，内容类似是bytes的数据的列表，每次取出来是一个bytes(8bit)的数据值，用一个int的数据表示（可以转换位任意的进制表示）
     return ":".join([ '%02x'%i for  i in mac_bytes])
 
 if __name__ == "__main__":
