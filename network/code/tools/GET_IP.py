@@ -9,7 +9,9 @@ def get_ip_address(ifname):
     #fcntl.ioctl(s.fileno(),0x8915, struct.pack('256s', (ifname[:15]).encode()))
     #第一个参数： 传入socket文件描述符 
     #第二个参数： 指定操作，（0x8915获取IP的指令）
-    #第三个参数： 根据第二参数的指令，需要传入一个参数（接口名字）：struct ifreq 
+    #第三个参数： 一个内存区域（个人理解，一段固定格式的bytes类型的数据，），通常根据第二参数的指令确定需要的格式，网络相关操作一般是：struct ifreq / struct ifconf 两种
+    #struct ifreq
+    # 这个结构定义在include/net/if.h，用来配置ip地址，激活接口，配置MTU等接口信息的
     #struct ifreq {
     #     char ifr_name[IFNAMSIZ]; /* Interface name */
     #     union {
