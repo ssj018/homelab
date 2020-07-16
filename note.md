@@ -189,3 +189,9 @@ output:
 -  the fifth experssion is a string 'xe7', type str
 - the six is  experssion a bytes sequence of string above, type: bytes
 -  the mac address **00:50:56:c0:00:01**  bytes in  memory or network should be the bytes of the hex data which the string representative 
+
+## win10
+- reset system:`Sysprep` 
+
+##
+qnap pass: M1das$@DR

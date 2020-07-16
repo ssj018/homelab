@@ -3,6 +3,8 @@
 
 from scapy.all import *
 
-ip = Ether(src='00:00:00:00:00:01')/IP(dst='127.0.0.1', frag=1)/ICMP()
+send = Ether()/ARP(pdst='10.1.16.1')
 
-print(ip.show())
+print(send.show())
+receivepacket, sendpacket = srp(send)
+print(receivepacket[0][1].op,receivepacket[0][1].hwsrc) 
