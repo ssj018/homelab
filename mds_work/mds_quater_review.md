@@ -38,17 +38,6 @@
 # 2020 quater 2
 ## TODO
 
-3.add vpn network on gds
-5.replace X4 card with X5 card
-- cwgdatalog
-- ciydatalog2
-- cijquip4 and cijdatalog
-6.investigate ilo sensor of 6148
-
-- ciy2 done
-8.test snmp collect of switches
-11.deploy ospf on colos
-
 14. purchase workstation for ouyangliu
 15. renew license of citrix
 
@@ -80,3 +69,28 @@
 22. renew cert of citrix adc
 23. test multicast acl setup
 24. take back ciytradea3/a4/trip1
+
+# 2020 quater 2
+## TODO
+
+1. add vpn network on gds
+    - apply internet at gds
+    - added a  layer 2 switch to gds
+2. replace X4 card with X5 card
+  - cwgdatalog
+  - ciydatalog2
+  - cijquip4 and cijdatalog
+3. investigate ilo sensor of 6148
+  - ciy2 done
+4. test snmp collect of switches ***
+5. deploy ospf on colos
+6. 2factor auth of wifi and openvpn 
+7. sudo user manangement with ldap 
+8. apply multicast acl to live
+9. consider redundancy of live switches
+10. switch ldap from utilserver to utilserver2
+
+
+
+## what has been done
+1. upgrade citrix adc
