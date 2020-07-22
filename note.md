@@ -24,6 +24,33 @@
 
 
 ## python
+### format method
+1. '{}' in string 
+```
+>>> "{{ {} }}".format("name")
+'{ name }'
+>>> "{{{{ {} }}}}".format("age")
+'{{ age }}'
+>>> "{ {} }".format("wrong")
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError: unexpected '{' in field name
+>>> 
+```
+
+2. use name
+```
+>>> "{{ name:{name}, age:{age} }}".format(age=10,name='sunsj')
+'{ name:sunsj, age:10 }'
+```
+
+3. use number
+```
+>>> "{{ name:{1}, age:{0} }}".format(10,'sunsj')
+'{ name:sunsj, age:10 }'
+
+```
+
 ### str and bytes
 1. To store anything in a computer, you must first encode it, i.e. convert it to bytes. For example:
 

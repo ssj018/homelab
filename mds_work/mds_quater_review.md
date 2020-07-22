@@ -84,13 +84,16 @@
   - ciy2 done
 4. test snmp collect of switches ***
 5. deploy ospf on colos
-6. 2factor auth of wifi and openvpn 
+6. 2factor auth of wifi and openvpn pha
 7. sudo user manangement with ldap 
 8. apply multicast acl to live
 9. consider redundancy of live switches
 10. switch ldap from utilserver to utilserver2
+11. switch ldap to utilserver2
+12. renew the license of citrix 
 
 
 
-## what has been done
-1. upgrade citrix adc
+## what hadmin48.3as been done
+1. upgrade citrix adcokppf
+p

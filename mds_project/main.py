@@ -1,10 +1,11 @@
+#!/usr/bin/env python3
 import copy
 import hashlib
 import os
 import time
 from argparse import ArgumentParser
 from multiprocessing import Pool, Process, Queue
-
+import pprint
 import yaml
 
 
@@ -73,8 +74,15 @@ def create_pool(_server, _tests, _queue):
 
 
 def replace_str(_str: str, _vars: dict):
+    pprint.pprint(_str)
+    pprint.pprint(_vars)
     for k, v in _vars.items():
         _str = _str.replace("{{{{ {} }}}}".format(k), v)
+        print('k:', k)
+        print("fk:", "{{ {} }}".format(k))
+        print('fk directory:', "{{ my name  is  {} }}".format('sunsj'))
+    pprint.pprint(_str)
+    pprint.pprint('                                       ')
     return _str
 
 
@@ -90,7 +98,9 @@ def main(_config: dict):
         for i in range(len(test["input"])):
             test["input"][i] = replace_str(test["input"][i], variables)
         test["exec"] = replace_str(test["exec"], variables)
+    pprint.pprint(test)
 
+    return 0
     # use a pool to manage all server
     queue = Queue()
     p_list = [
@@ -121,4 +131,5 @@ if __name__ == "__main__":
 
     with open(args.config) as f:
         config = yaml.load(f)
+    pprint.pprint(config)
     main(config)
