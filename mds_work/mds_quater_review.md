@@ -76,6 +76,8 @@
 1. add vpn network on gds
     - apply internet at gds
     - added a  layer 2 switch to gds
+    - installed a pfsense -------------- 2020/7/23
+    
 2. replace X4 card with X5 card
   - cwgdatalog
   - ciydatalog2
@@ -85,15 +87,16 @@
 4. test snmp collect of switches ***
 5. deploy ospf on colos
 6. 2factor auth of wifi and openvpn pha
-7. sudo user manangement with ldap 
+7. sudo user manangement with ldap
 8. apply multicast acl to live
 9. consider redundancy of live switches
 10. switch ldap from utilserver to utilserver2
 11. switch ldap to utilserver2
-12. renew the license of citrix 
+12. renew the license of citrix
 
 
 
 ## what hadmin48.3as been done
 1. upgrade citrix adcokppf
-p
+2. installed a  new ldap
+3. installed a pfsense on gdsMds
