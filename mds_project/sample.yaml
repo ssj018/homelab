@@ -1,0 +1,38 @@
+# test cases will be distributed to the following servers to run parallelly
+#
+# host: server hostname. (using ssh or any any other protocol you want)
+# capacity: max number of jobs that can run in parallel on the host
+servers:
+    - host: localhost
+      capacity: 2
+
+# used for replacement in 'input/exec/output' sections
+global_variables:
+    name: foo
+    email: 123@example.com
+
+tests:
+    - name: basic
+      input:
+        - bin/test1
+      exec: "bin/test1"
+    - name: more options
+      input:
+        - bin/test2
+        - conf/{{ name }}.conf
+      exec: "bin/test2"
+      timeout: 3
+      reties: 3
+      local_variables:
+          name: test2
+    - name: even more options
+      input:
+        - bin/{{ bin }}
+        - conf/{{ bin }}.conf
+      exec: "bin/{{ bin }} conf/test2.conf -o out/{{ name }}_{{ bin }} -e out/{{ name }}_{{ email }}"
+      output: out/*
+      output_hash: 8f209f9d9dd45cf2060fef56881e87c3216e4c40
+      timeout: 3
+      reties: 3
+      local_variables:
+          bin: test3

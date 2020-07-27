@@ -1,29 +1,32 @@
-## mysql
-
-### select the last 3 minutes data from database
-- select SysLogTag,Message from SystemEvents where DeviceReportedTime > now()-interval 3 minute;
-- select count(1) from myTable where Login_time > date_sub(now(), interval 3 minute)
-- select * from myTable where Login_time > select max(time) - interval 3 minute ;(This query will work even if your table is not updated...) 
-
-### create remote user
-#### create
-- CREATE USER 'myuser'@'localhost' IDENTIFIED BY 'mypass';
-- CREATE USER 'myuser'@'%' IDENTIFIED BY 'mypass';
-
-#### grant 
-- GRANT ALL ON *.* TO 'myuser'@'localhost';
-- GRANT ALL ON *.* TO 'myuser'@'%';
-- GRANT SELECT, INSERT, UPDATE ON Syslog.* TO user1;
-- flush privileges;
-
-## git
-
-### git push local branch to remote master
-- git push origin  HEAD:master
-
-
 
 ## python
+### format method
+1. '{}' in string 
+```
+>>> "{{ {} }}".format("name")
+'{ name }'
+>>> "{{{{ {} }}}}".format("age")
+'{{ age }}'
+>>> "{ {} }".format("wrong")
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError: unexpected '{' in field name
+>>> 
+```
+
+2. use name
+```
+>>> "{{ name:{name}, age:{age} }}".format(age=10,name='sunsj')
+'{ name:sunsj, age:10 }'
+```
+
+3. use number
+```
+>>> "{{ name:{1}, age:{0} }}".format(10,'sunsj')
+'{ name:sunsj, age:10 }'
+
+```
+
 ### str and bytes
 1. To store anything in a computer, you must first encode it, i.e. convert it to bytes. For example:
 
@@ -189,9 +192,3 @@ output:
 -  the fifth experssion is a string 'xe7', type str
 - the six is  experssion a bytes sequence of string above, type: bytes
 -  the mac address **00:50:56:c0:00:01**  bytes in  memory or network should be the bytes of the hex data which the string representative 
-
-## win10
-- reset system:`Sysprep` 
-
-##
-qnap pass: M1das$@DR
