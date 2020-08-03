@@ -76,8 +76,8 @@ def is_charshif_3(s1 :list, s2 :list):
     
 
 if __name__ == "__main__":
-    s1='earth0'
-    s2='heart0'
+    s1='earth'
+    s2='heart'
     print(is_charshif_1(list(s1), list(s2)))
     print(is_charshif_2(list(s1), list(s2)))
     print(is_charshif_3(list(s1), list(s2)))

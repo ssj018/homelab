@@ -86,3 +86,48 @@ T<sub>(n)</sub> = 5n <sup>2</sup> + 27n + 10005
 
 O<sub>(n)</sub> = n<sup>2</sup>
 
+- 很多时候出来规模，数据本身也会影响算法运行时间，比如排序（杂乱无章的数据，和已经有一定顺序的数据），算法运行时间有平均、最好、最差，一般以平均时间进行分析
+
+- 常见的大O数量级函数
+   - O<sub>(1)</sub>         --- 常数 
+   - O<sub>log(n)</sub>      --- 对数
+   - O<sub>(n)</sub>         --- 线性
+   - O<sub>（n*log(n)）</sub>    --- 对数线性
+   - O<sub>(n<sup>2</sup>)</sub> ---平方
+   - O<sub>(n<sup>3</sup>)</sub> ---立方
+   - O<sub>(2<sup>n</sup>)</sub> --- 指数
+
+### Linear Structure ： 线性结构
+- Stack
+    - LIFO （Last In First Out），只在顶端加入和移除数据
+    - 举例：浏览起后退按钮，word撤销操作按钮
+    - code：
+    ```
+    **用list实现stack，list尾部作为Stack顶部**
+
+    class Stack:
+    def __init__(self):
+        self.mystack=[]
+    
+    def isEmpty(self):
+        return self.mystack == []
+
+    def peek(self):
+        return self.mystack[len(self.mystack) - 1]
+
+    def pop(self):
+        return self.mystack.pop()
+    
+    def push(self, data):
+        self.mystack.append(data)
+    
+    def size(self):
+        return len(self.mystack)
+    
+    ```
+
+- Queue
+- Deque
+- List
+
+以上4种线性结构，区别在于： 在不同的方向（顶端，底端，双向）进行数据的增加删除
