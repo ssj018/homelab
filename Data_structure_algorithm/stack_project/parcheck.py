@@ -12,6 +12,7 @@ def parchecker(symbolchars):
             s.push(i)
         elif i in ')}]':
             if s.isEmpty():
+                parmatch = False # 这个不可少，有可能parmatch 已经被置为true
                 return parmatch
             top = s.pop()
             if matches(top, i):
@@ -37,3 +38,4 @@ if __name__ == "__main__":
     print(parchecker('((]ddd())'))
     print(parchecker('(([dd])ffr())'))
     print(parchecker('(([)](ff))'))
+    print(parchecker('60*(99+1876)*3-89076659/3983)'))

@@ -127,6 +127,8 @@ O<sub>(n)</sub> = n<sup>2</sup>
     ```
 
 - Queue
+   - FIFO(First In Fist Out), 对尾进对首出
+   - 举例： 进程排队，打印机队列
 - Deque
 - List
 
