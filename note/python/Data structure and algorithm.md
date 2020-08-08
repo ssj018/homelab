@@ -128,8 +128,133 @@ O<sub>(n)</sub> = n<sup>2</sup>
 
 - Queue
    - FIFO(First In Fist Out), 对尾进对首出
-   - 举例： 进程排队，打印机队列
+   - 举例： 进程排队，热土豆，打印机队列。**queue 可以用于进行仿真模拟**
+   - code:
+```
+
+class queue:
+    def __init__(self):
+        self.mylist = []
+    
+    def isEmpty(self):
+        return self.mylist == []
+    
+    def dequeue(self):
+        return self.mylist.pop()
+    
+    def enqueue(self, item):
+        self.mylist.insert(0, item)
+
+    def size(self):
+        return len(self.mylist)
+```
+
 - Deque
+   - 双端队列，可以从两端进行添加，删除。每次先进先出或先进后出的概念
+   - 举例： 判定回文词
+   - code：
+```
+class Deque:
+    def __init__(self):
+        self.items = []
+    
+    def isEmpty(self):
+        return self.items == []
+    
+    def size(self):
+        return len(self.items)
+    
+    def addFront(self, item):
+        self.items.append(item)
+    
+    def removeFront(self):
+        return self.items.pop()
+    
+    def addRear(self, item):
+        self.items.insert(0, item)
+    
+    def removeRear(self):
+        return self.items.pop(0)
+```
 - List
+   - 单项向链表,每个元素定义位节点,节点有数据和Next属性 
+   - 双向链表, 每个节点有: data,next,previous属性
+   - 链表的访问是从head开始,按照next逐个访问,所以在添加节点,从头部添加是最快捷的方法
+   - 无序链表,数据无序,直接插入头或者尾(最好是从head添加).
+   - 有序链表需要在删除和添加时,进行排序
+   - code
+```
+单向列表的一些功能实现.还需要增加append,pop 等函数.另外还需要增加双向链表的实现
+
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+        self.previos = None
+
+    def getdata(self):
+        return self.data
+    
+    def getnext(self):
+        return self.next
+    
+    # 单向列表不需要previous
+    # def getprevios(self):
+    #     return self.previos
+    
+    def setnext(self, next):
+        self.next = next
+    
+    def setprevios(self, previos):
+        self.previos = previos
+
+
+class mylist:
+    def __init__(self):
+        self.head = None
+
+    def add(self, item):
+        temp = Node(item)
+        temp.next = self.head
+        self.head = temp
+    
+    def size(self):
+        current_item = self.head
+        count = 0
+        while current_item != None:
+            count += 1
+            current_item = current_item.getnext()
+        
+        return count
+    
+    def search(self, item):
+        current_item = self.head
+        found = False
+        while current_item != None and not found:
+            if current_item.getdata() == item:
+                found = True
+            else:
+                current_item = current_item.getnext()
+        
+        return found
+    
+    def remove(self, item):
+    # 这是None不含previou的实现方式. 如果node含有previous(即双向链表可以更简单一点),
+        current = self.head
+        previos = None
+        found = False
+        while not found:
+            if current.getdata() == item:
+                found = True
+            else:
+                previos = current
+                current = current.getnext()
+        
+        if previos == None:
+            self.head = current.getnext()
+        else:
+            previos.setnext(current.getnext())
+
+```
 
 以上4种线性结构，区别在于： 在不同的方向（顶端，底端，双向）进行数据的增加删除
