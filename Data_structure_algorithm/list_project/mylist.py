@@ -2,7 +2,7 @@ class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
-        self.previos = None
+        # self.previos = None
 
     def getdata(self):
         return self.data
@@ -53,16 +53,46 @@ class mylist:
     def remove(self, item):
     # 这是None不含previou的实现方式. 如果node含有previous(即双向链表可以更简单一点),
         current = self.head
-        previos = None
+        previous = None
         found = False
         while not found:
             if current.getdata() == item:
                 found = True
             else:
-                previos = current
+                previous = current
                 current = current.getnext()
         
-        if previos == None:
+        if previous == None:
             self.head = current.getnext()
         else:
-            previos.setnext(current.getnext())
+            previous.setnext(current.getnext())
+
+    def pop(self):
+        current = self.head
+        found =  False
+        previous = None
+        theLast = None
+        while not found:
+            if current.getnext() == None:
+                found = True
+                theLast = current
+                previous.setnext(None)
+            else:
+                previous = current
+                current = current.getnext()
+        
+        return theLast.getdata()
+
+    def append(self, item):
+        temp = Node(item)
+        current = self.head
+        found =  False
+        while not found:
+            if current.getnext() == None:
+                found = True
+                current.setnext(temp)
+            else:
+                current = current.getnext()
+        
+
+        

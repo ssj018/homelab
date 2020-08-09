@@ -184,7 +184,7 @@ class Deque:
    - 有序链表需要在删除和添加时,进行排序
    - code
 ```
-单向列表的一些功能实现.还需要增加append,pop 等函数.另外还需要增加双向链表的实现
+目前只是单向列表的一些功能实现.另外还需要增加双向链表的实现
 
 class Node:
     def __init__(self, data):
@@ -254,6 +254,34 @@ class mylist:
             self.head = current.getnext()
         else:
             previos.setnext(current.getnext())
+    
+    def pop(self):
+        current = self.head
+        found =  False
+        previous = None
+        theLast = None
+        while not found:
+            if current.getnext() == None:
+                found = True
+                theLast = current
+                previous.setnext(None)
+            else:
+                previous = current
+                current = current.getnext()
+        
+        return theLast.getdata()
+
+    def append(self, item):
+        temp = Node(item)
+        current = self.head
+        found =  False
+        while not found:
+            if current.getnext() == None:
+                found = True
+                current.setnext(temp)
+            else:
+                current = current.getnext()
+        
 
 ```
 
