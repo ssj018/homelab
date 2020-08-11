@@ -27,3 +27,8 @@
 
 ## qnap 
 - pass: M1das$@DR
+
+## Linux
+
+- find /proc -name mountinfo |xargs grep home (kill process and rm )
+- grep -h home /proc/\*/task/\*/mountinfo

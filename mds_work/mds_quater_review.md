@@ -91,12 +91,17 @@
 8. apply multicast acl to live
 9. consider redundancy of live switches
 10. switch ldap from utilserver to utilserver2
-11. switch ldap to utilserver2
 12. renew the license of citrix
+13. add a ciara to cwg
+### 8/10
+14. test blackcore server
+15. add remote virtualdevmachine for zhouhuan
+16. upgrade wifi 
 
 
-
-## what hadmin48.3as been done
-1. upgrade citrix adcokppf
+## what has been done
+1. upgrade citrix adc
 2. installed a  new ldap
 3. installed a pfsense on gdsMds
+### july, week 4
+4. install citrix vhost for jialun
