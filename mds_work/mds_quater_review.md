@@ -97,6 +97,9 @@
 14. test blackcore server
 15. add remote virtualdevmachine for zhouhuan
 16. upgrade wifi 
+17. renew hp warranty
+18. buy a  ixia (10G Flex tap)
+19. expend citrix hosts
 
 
 ## what has been done
@@ -105,3 +108,10 @@
 3. installed a pfsense on gdsMds
 ### july, week 4
 4. install citrix vhost for jialun
+### 8/10
+5. installed zhouhuanvlinux
+### 8.19
+6. install pc,printer,internet for mdsl
+
+
+

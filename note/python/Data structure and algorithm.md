@@ -239,7 +239,7 @@ class mylist:
         return found
     
     def remove(self, item):
-    # 这是None不含previou的实现方式. 如果node含有previous(即双向链表可以更简单一点),
+    # 这是Node不含previou的实现方式. 如果node含有previous(即双向链表可以更简单一点),
         current = self.head
         previos = None
         found = False

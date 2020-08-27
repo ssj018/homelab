@@ -30,3 +30,6 @@
   >  **passive:**    Enable LACP only if a LACP device is detected
 
   - channel config mismatch will cause port in: err-disable 
+
+
+

@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/home/mds-trading.com/shuangjian/code/homelab/calc_timer')
+sys.path.append('/home/sunsj/vscode/homelab/calc_timer')
 import calctimer
 
 @calctimer.calctimes
