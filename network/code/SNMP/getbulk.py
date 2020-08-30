@@ -2,6 +2,7 @@
 
 from pysnmp.entity.rfc3413.oneliner import cmdgen
 import pysnmp.smi.rfc1902
+import pprint
 
 class MrouteTable:
     def __init__(self):
@@ -79,6 +80,8 @@ def main():
     host = '10.1.10.2'
     community = 'mds'
     ifname = ifIndexMapToifDesc(host, community)
+    mtables = {}
+    groups_info = {}
 
     mroutetable_oid = '1.3.6.1.2.1.83.1.1.2.1'
 
@@ -102,9 +105,17 @@ def main():
         '16': 'ipMRouteHCOctets'
     }
     for  i in mroutetable:
-        key = i[0].__str__().split(mroutetable_oid[-7:])[1].split('.')[1]
+        print(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.'))
+        key = i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[1]
+        groups = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[2:6])
+        sources = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[6:10])
+        mask = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[10:14])
+        groups_info[groups] = {'mask': mask, 'source': sources }
         if key in subindex_map:
-            print(subindex_map[key])
+            mtables[key] = groups_info
+    
+    pprint.pprint(mtables)
+
 
 
 
@@ -122,6 +133,8 @@ if __name__ == "__main__":
     # print(resp1[0])
     # for  i in resp:
     #     print(i[0])
-    # main()
-    resp = getnextSnmp('10.1.48.6','mds',OID='1.3.6.1.2.1.83.1.1.2.1')
-    print(resp)
+    main()
+    # resp = getBulkSnmp('10.1.10.2','mds',OID='1.3.6.1.2.1.83.1.1.2.1')
+    # for i in resp:
+    #     print(i[0])
+    
