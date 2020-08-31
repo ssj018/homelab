@@ -94,7 +94,7 @@
 12. renew the license of citrix
 13. add a ciara to cwg
 ### 8/10
-14. test blackcore server
+
 15. add remote virtualdevmachine for zhouhuan
 16. upgrade wifi 
 17. renew hp warranty
@@ -112,6 +112,6 @@
 5. installed zhouhuanvlinux
 ### 8.19
 6. install pc,printer,internet for mdsl
-
+7. test blackcore server
 
 

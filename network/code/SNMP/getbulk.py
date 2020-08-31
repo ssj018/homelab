@@ -4,9 +4,10 @@ from pysnmp.entity.rfc3413.oneliner import cmdgen
 import pysnmp.smi.rfc1902
 import pprint
 
-class MrouteTable:
-    def __init__(self):
-        pass
+class Switches:
+    def __init__(self, hostname):
+        self.hostname = hostname
+
 
 
 def ifIndexMapToifDesc(host, community):
@@ -104,15 +105,17 @@ def main():
         '15': 'ipMRouteRtType',
         '16': 'ipMRouteHCOctets'
     }
+    mtables = {}
     for  i in mroutetable:
-        print(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.'))
         key = i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[1]
         groups = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[2:6])
-        sources = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[6:10])
-        mask = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[10:14])
-        groups_info[groups] = {'mask': mask, 'source': sources }
-        if key in subindex_map:
-            mtables[key] = groups_info
+        sources = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[6:10]).strip()
+        mask = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[10:14]).strip()
+        value = i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[1].strip()
+        print(value)
+        # groups_info['{}.{}.{}.{}'.format(key, groups,sources,mask)] = {'groups' : groups, 'mask': mask, 'source': sources, 'value': value }
+        
+        mtables[key] = { '{}.{}.{}.{}'.format(key, groups,sources,mask) : {'groups' : groups, 'mask': mask, 'source': sources, 'value': value }}
     
     pprint.pprint(mtables)
 
