@@ -3,10 +3,18 @@
 from pysnmp.entity.rfc3413.oneliner import cmdgen
 import pysnmp.smi.rfc1902
 import pprint
+import prettytable as pt
 
-class Switches:
-    def __init__(self, hostname):
-        self.hostname = hostname
+class SwitchesMrouteEntries:
+    def __init__(self, key, group, mask, source, value):
+        self.key = key
+        self.group = group
+        self.source = source
+        self.mask = mask
+        self.value = value
+
+    def __str__(self):
+        return '{}.{}.{}.{} = {}'.format(self.key, self.group, self.source, self.mask, self.value)
 
 
 
@@ -77,16 +85,8 @@ def getSnmp(host, community, OID, port=161 ):
      
     return varBindTable
     
-def main():
-    host = '10.1.10.2'
-    community = 'mds'
-    ifname = ifIndexMapToifDesc(host, community)
-    mtables = {}
-    groups_info = {}
-
-    mroutetable_oid = '1.3.6.1.2.1.83.1.1.2.1'
-
-    mroutetable = getBulkSnmp(host, community, mroutetable_oid)
+def showtables(entries_list):
+    tables = {}
     subindex_map = {
         '1': 'ipMRouteGroup',
         '2': 'ipMRouteSource',
@@ -105,19 +105,45 @@ def main():
         '15': 'ipMRouteRtType',
         '16': 'ipMRouteHCOctets'
     }
+    for i  in entries_list:
+        if i.key not in tables:
+            tb = pt.PrettyTable()
+            tb.field_names = ['ipMRouteGroup', 'ipMRouteSource', 'ipMRouteSourceMask', subindex_map[i.key]]
+            tables[i.key] = tb
+
+    for i in entries_list:
+        tables[i.key].add_row([i.group, i.source, i.mask, i.value])
+
+    return tables
+    
+
+
+
+
+def main():
+    host = '10.1.10.2'
+    community = 'mds'
+    ifname = ifIndexMapToifDesc(host, community)
     mtables = {}
+    groups_info = {}
+
+    mroutetable_oid = '1.3.6.1.2.1.83.1.1.2.1'
+
+    mroutetable = getBulkSnmp(host, community, mroutetable_oid)
+
+    mtables = []
     for  i in mroutetable:
         key = i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[1]
-        groups = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[2:6])
-        sources = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[6:10]).strip()
+        group = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[2:6])
+        source = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[6:10]).strip()
         mask = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[10:14]).strip()
         value = i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[1].strip()
-        print(value)
-        # groups_info['{}.{}.{}.{}'.format(key, groups,sources,mask)] = {'groups' : groups, 'mask': mask, 'source': sources, 'value': value }
-        
-        mtables[key] = { '{}.{}.{}.{}'.format(key, groups,sources,mask) : {'groups' : groups, 'mask': mask, 'source': sources, 'value': value }}
-    
-    pprint.pprint(mtables)
+        mtables.append(SwitchesMrouteEntries(key, group, mask, source, value))
+   
+    tables = showtables(mtables)
+    for i  in tables:
+        print(tables[i])
+         
 
 
 
