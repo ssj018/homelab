@@ -85,7 +85,7 @@ def getSnmp(host, community, OID, port=161 ):
      
     return varBindTable
     
-def showtables(entries_list):
+def showmroutetables(entries_list):
     tables = {}
     subindex_map = {
         '1': 'ipMRouteGroup',
@@ -123,14 +123,9 @@ def showtables(entries_list):
 def main():
     host = '10.1.10.2'
     community = 'mds'
-    ifname = ifIndexMapToifDesc(host, community)
     mtables = {}
-    groups_info = {}
-
     mroutetable_oid = '1.3.6.1.2.1.83.1.1.2.1'
-
     mroutetable = getBulkSnmp(host, community, mroutetable_oid)
-
     mtables = []
     for  i in mroutetable:
         key = i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[1]
@@ -140,7 +135,7 @@ def main():
         value = i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[1].strip()
         mtables.append(SwitchesMrouteEntries(key, group, mask, source, value))
    
-    tables = showtables(mtables)
+    tables = showmroutetables(mtables)
     for i  in tables:
         print(tables[i])
          
