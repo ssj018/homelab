@@ -79,7 +79,7 @@
     - installed a pfsense -------------- 2020/7/23
     
 2. replace X4 card with X5 card
-  - cwgdatalog
+  - cwgdatalog@xiaoqingqq10.1D
   - ciydatalog2
   - cijquip4 and cijdatalog
 3. investigate ilo sensor of 6148
@@ -92,26 +92,25 @@
 9. consider redundancy of live switches
 10. switch ldap from utilserver to utilserver2
 12. renew the license of citrix
-13. add a ciara to cwg
-### 8/10
-
-15. add remote virtualdevmachine for zhouhuan
-16. upgrade wifi 
 17. renew hp warranty
 18. buy a  ixia (10G Flex tap)
-19. expend citrix hosts
 
 
 ## what has been done
 1. upgrade citrix adc
 2. installed a  new ldap
 3. installed a pfsense on gdsMds
-### july, week 4
 4. install citrix vhost for jialun
-### 8/10
 5. installed zhouhuanvlinux
-### 8.19
 6. install pc,printer,internet for mdsl
 7. test blackcore server
 
-
+8. take back zhyquip1
+9. interview 1 time
+10. fix ddc issue  and citrix split the ddc and database
+11. add remote virtual devmachine for zhouhuan
+12. expend citrix hosts
+13. add a ciara to cwg
+14. upgrade wifi 
+15. added 4 vitural hosts for mdsl
+16. replace and add testlab3/testlab7

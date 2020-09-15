@@ -7,16 +7,6 @@ import pprint
 import prettytable as pt
 from influxdb import InfluxDBClient
 
-class SwitchesMrouteEntries:
-    def __init__(self, hostname, group_info, value, snmptype):
-        self.hostname = hostname
-        self.group_info = group_info
-        self.value = value
-        self.snmptype = snmptype
-
-    def __str__(self):
-        return '{}.{}.{} = {}'.format(self.hostname, self.snmptype, self.group_info, self.value)
-
 
 def getBulkSnmp(host, community, OID, port=161):
     '''
@@ -45,12 +35,12 @@ def writeinfluxdb(dbhost,dbname, dbuser, dbuser_passord, data, port=8086):
         {
             "measurement": "snmp_mroutetable",
             "tags": {
-                "host": data.hostname,
-                "type": data.snmptype,
-                "group_info": data.group_info
+                "host": data['host'],
+                "type": data['snmptype'],
+                "group_info": data['group_info']
             },
             "fields": {
-                "value": data.value
+                "value": data['value']
             }
 
         }
@@ -61,10 +51,8 @@ def writeinfluxdb(dbhost,dbname, dbuser, dbuser_passord, data, port=8086):
 def main(host):
     host = host
     community = 'mds'
-    mtables = {}
     mroutetable_oid = '1.3.6.1.2.1.83.1.1.2.1'
     mroutetable = getBulkSnmp(host, community, mroutetable_oid)
-    mtables = []
     subindex_map = {
         '1': 'ipMRouteGroup',
         '2': 'ipMRouteSource',
@@ -87,19 +75,12 @@ def main(host):
         key = i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[1]
         group_info = '.'.join(i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[0].split('.')[2:14]).strip()
         value = i[0].__str__().split(mroutetable_oid[-7:])[1].split('=')[1].strip()
-        mtables.append(SwitchesMrouteEntries(host, group_info, value, subindex_map[key]))
-   
-    for i  in mtables:
-        print(i)
-        writeinfluxdb('10.1.77.99','test','admin', 'password', i )
-
-
-
-
+        mroutetableEntries = {'host': host, 'group_info': group_info, 'snmptype': subindex_map[key], 'value': value}
+        writeinfluxdb('10.1.77.99','test','admin', 'password', mroutetableEntries)
 
 
 
 if __name__ == "__main__":
-    main('10.1.48.6')
+    main('10.1.48.2')
 
     
