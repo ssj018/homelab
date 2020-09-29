@@ -94,6 +94,8 @@
 12. renew the license of citrix
 17. renew hp warranty
 18. buy a  ixia (10G Flex tap)
+19. redundancy of fiber
+
 
 
 ## what has been done
@@ -104,7 +106,6 @@
 5. installed zhouhuanvlinux
 6. install pc,printer,internet for mdsl
 7. test blackcore server
-
 8. take back zhyquip1
 9. interview 1 time
 10. fix ddc issue  and citrix split the ddc and database
@@ -114,3 +115,6 @@
 14. upgrade wifi 
 15. added 4 vitural hosts for mdsl
 16. replace and add testlab3/testlab7
+17. upgrade office switch's os
+18. renew cert of citrix adc
+19. update scripts to backup/monitor network devices

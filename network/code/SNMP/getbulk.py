@@ -117,9 +117,6 @@ def showmroutetables(entries_list):
     return tables
     
 
-
-
-
 def main():
     host = '10.1.10.2'
     community = 'mds'
@@ -139,11 +136,6 @@ def main():
     for i  in tables:
         print(tables[i])
          
-
-
-
-
-
 
 
 if __name__ == "__main__":

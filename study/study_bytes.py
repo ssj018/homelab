@@ -1,9 +1,5 @@
 #! /usr/bin/env python3
 
-
-
-
-
 def write_bytes(bytesstr):
     with open('/tmp/test.bin','wb') as f:
         f.write(bytesstr)
