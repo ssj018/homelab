@@ -6,21 +6,8 @@ import argparse
 import subprocess
 import influxdb
 
-def calctimes(func):
-    def innner(*args, **kwags):
-        start = time.time()
-        result = func(*args, **kwags)
-        end = time.time()
-        used_time = end - start
-        print('{} used {} seconds'.format(func.__name__, used_time))
-        return result
-    
-    return innner
-
-@calctimes    
 def getSnmp(username,auth,authpass,privpass,host, oid):
     cmd = 'snmpbulkwalk -v3 -l authPriv -u {} -a {} -A \'{}\' -x aes -X \'{}\' {} {}'.format(username,auth,authpass,privpass,host,oid)
-    # print(cmd)
     try:
         output = subprocess.check_output(cmd,shell=True,timeout=5)
     except subprocess.CalledProcessError as e:
@@ -30,8 +17,6 @@ def getSnmp(username,auth,authpass,privpass,host, oid):
     output = output.decode('utf-8')
     return output.strip().split('\n')
 
-
-@calctimes
 def writeinfluxdb(dbhost,dbname, dbuser, dbuser_passord, data, port=8086):
     client = influxdb.InfluxDBClient(host=dbhost, database=dbname,username=dbuser, password=dbuser_passord, port=port)
     fields = { "mrouteEntry_id": data['mrouteEntry_id'] }
@@ -48,9 +33,25 @@ def writeinfluxdb(dbhost,dbname, dbuser, dbuser_passord, data, port=8086):
     ]
     client.write_points(json_body)
 
-def main(username, auth, authpass, privpass, host,oid):
-    mroutetable = getSnmp(username,auth,authpass,privpass,host, oid)
-    subindex_map = {
+def ifIndex_map_ifDescr(username, auth, authpass, privpass, host):
+    ifdescr_oid = '1.3.6.1.2.1.2.2.1.2'
+    ifdescr = getSnmp(username, auth, authpass, privpass, host, ifdescr_oid)
+    ifname_map = {}
+    for i in ifdescr:
+        ifname_map[i.split('=')[0].strip().split('.')[-1]] = i.split('=')[1].split()[-1]
+    
+    return ifname_map
+
+def main(username, auth, authpass, privpass, host):
+    ifname_map = ifIndex_map_ifDescr(username, auth, authpass, privpass, host)
+
+    mroutetable_oid = '1.3.6.1.2.1.83.1.1.2.1'
+    mroutetable = getSnmp(username,auth,authpass,privpass,host, mroutetable_oid)
+    
+    nexthop_oid = '1.3.6.1.2.1.83.1.1.3.1'
+    outgoingtable = getSnmp(username,auth,authpass,privpass,host, nexthop_oid)
+
+    mroutetable_subindex_map = {
         '1': 'ipMRouteGroup',
         '2': 'ipMRouteSource',
         '3': 'ipMRouteSourceMask',
@@ -72,24 +73,36 @@ def main(username, auth, authpass, privpass, host,oid):
     mroutetableEntries = []
     group_infos = {}
     for  i in mroutetable:
-        key = i.split(oid[-7:])[1].split('=')[0].split('.')[1]
-        group = '.'.join(i.split(oid[-7:])[1].split('=')[0].split('.')[2:6])
-        source = '.'.join(i.split(oid[-7:])[1].split('=')[0].split('.')[6:10]).strip()
-        mask = '.'.join(i.split(oid[-7:])[1].split('=')[0].split('.')[10:14]).strip()
-        value = ' '.join(i.split(oid[-7:])[1].split('=')[1].strip().split()[1:])
+        key = i.split(mroutetable_oid[-10:])[1].split('=')[0].strip().split('.')[1]
+        group = '.'.join(i.split(mroutetable_oid[-10:])[1].split('=')[0].strip().split('.')[2:6])
+        source = '.'.join(i.split(mroutetable_oid[-10:])[1].split('=')[0].strip().split('.')[6:10])
+        mask = '.'.join(i.split(mroutetable_oid[-10:])[1].split('=')[0].strip().split('.')[10:14])
+        value = ' '.join(i.split(mroutetable_oid[-10:])[1].split('=')[1].strip().split()[1:])
         if key=='5':
             if value == '0':
                 value = 'None'
             else:
-                # print(group,source)
-                interface_oid ='1.3.6.1.2.1.2.2.1.2.{}'.format(value)
-                value = getSnmp(username, auth, authpass, privpass, host, interface_oid)[0].split('=')[-1].split()[-1]
+                value = ifname_map[value]
 
         group_id = '{}.{}.{}'.format(group, source, mask)
-        if group_id not in group_infos:
-            group_infos[group_id] = { 'ipMrouteGroup': '{}({})'.format(group, group), 'ipMRouteSource': '{}({})'.format(source,source), 'ipMRouteSourceMask': mask, }   
 
-        group_infos[group_id][subindex_map[key]] = value
+        if group_id not in group_infos:
+            group_infos[group_id] = { 'ipMrouteGroup': group, 'ipMRouteSource': source, 'ipMRouteSourceMask': mask }   
+
+        group_infos[group_id][mroutetable_subindex_map[key]] = value
+    
+    
+    for i in outgoingtable:
+        group = '.'.join(i.split(nexthop_oid[-10:])[1].split('=')[0].strip().split('.')[2:6])
+        source = '.'.join(i.split(nexthop_oid[-10:])[1].split('=')[0].strip().split('.')[6:10])
+        mask = '.'.join(i.split(nexthop_oid[-10:])[1].split('=')[0].strip().split('.')[10:14])
+        OutInterface = ifname_map[i.split(nexthop_oid[-10:])[1].strip().split('=')[0].split('.')[14]]
+        group_id = '{}.{}.{}'.format(group, source, mask)
+        if 'OutInterfaces' not in group_infos[group_id]:
+            group_infos[group_id]['OutInterfaces'] = OutInterface
+        else:
+            if OutInterface not in group_infos[group_id]['OutInterfaces']:
+                group_infos[group_id]['OutInterfaces'] += ' {}'.format(OutInterface)
     
     for  i in group_infos:
         mroutetableEntries .append({'host': host, 'mrouteEntry_id': i, 'mrouteEntry_detail' : group_infos[i]})
@@ -107,5 +120,4 @@ if __name__ == "__main__":
     parse.add_argument('--privpass', '-P', required=True, help='priv password of snmp v3 user')
     parse.add_argument('--auth', '-a', default='sha', choices=['sha','md5'])
     args = parse.parse_args()
-    mroutetable_oid = '1.3.6.1.2.1.83.1.1.2.1'
-    main(args.user, args.auth, args.authpass, args.privpass, args.host, mroutetable_oid)
+    main(args.user, args.auth, args.authpass, args.privpass, args.host)
