@@ -70,10 +70,10 @@
 23. test multicast acl setup
 24. take back ciytradea3/a4/trip1
 
-# 2020 quater 2
+# 2020 quater 3
 ## TODO
 
-1. add vpn network on gds
+NVME
     - apply internet at gds
     - added a  layer 2 switch to gds
     - installed a pfsense -------------- 2020/7/23
@@ -95,7 +95,7 @@
 17. renew hp warranty
 18. buy a  ixia (10G Flex tap)
 19. redundancy of fiber
-
+20. clear qnap space 
 
 
 ## what has been done
@@ -118,3 +118,12 @@
 17. upgrade office switch's os
 18. renew cert of citrix adc
 19. update scripts to backup/monitor network devices
+
+# 2020 quater 3
+## 2020/10/10
+### TODO
+1. fix rfa server network link issue.
+
+## 2020/10/12
+### TODO
+1. investigate nvme ssd
