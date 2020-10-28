@@ -127,3 +127,11 @@ NVME
 ## 2020/10/12
 ### TODO
 1. investigate nvme ssd
+2. replace ciyconn4
+3. replace the old servers
+
+## 202010/19
+1. replace X4 card with X5 card
+  - cwgdatalog
+  - ciydatalog2
+  - cijquip4 and cijdatalog

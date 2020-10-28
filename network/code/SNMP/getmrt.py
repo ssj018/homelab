@@ -6,26 +6,27 @@ import argparse
 import subprocess
 import influxdb
 
-def getSnmp(username,auth,authpass,privpass,host, oid):
-    cmd = 'snmpbulkwalk -v3 -l authPriv -u {} -a {} -A \'{}\' -x aes -X \'{}\' {} {}'.format(username,auth,authpass,privpass,host,oid)
+def getSnmp(username, auth, authpass, privpass, host, oid):
+    # use snmp v3 for security
+    cmd = 'snmpbulkwalk -v3 -l authPriv -u {} -a {} -A \'{}\' -x aes -X \'{}\' {} {}'.format(username, auth, authpass, privpass, host, oid)
     try:
-        output = subprocess.check_output(cmd,shell=True,timeout=5)
+        output = subprocess.check_output(cmd, shell=True, timeout=5)
     except subprocess.CalledProcessError as e:
         print(e.output.decode('utf-8'))
         sys.exit(e.returncode)
-    
+
     output = output.decode('utf-8')
     return output.strip().split('\n')
 
-def writeinfluxdb(dbhost,dbname, dbuser, dbuser_passord, data, port=8086):
-    client = influxdb.InfluxDBClient(host=dbhost, database=dbname,username=dbuser, password=dbuser_passord, port=port)
+def writeinfluxdb(dbhost, dbname, dbuser, dbuser_passord, data, port=8086):
+    client = influxdb.InfluxDBClient(host=dbhost, database=dbname, username=dbuser, password=dbuser_passord, port=port)
     fields = { "mrouteEntry_id": data['mrouteEntry_id'] }
     fields.update(data['mrouteEntry_detail'])
     json_body = [
         {
             "measurement": "snmp_mroutetable",
             "tags": {
-                "host": data['host'],     
+                "host": data['host'],
             },
             'fields' : fields
 
@@ -34,23 +35,28 @@ def writeinfluxdb(dbhost,dbname, dbuser, dbuser_passord, data, port=8086):
     client.write_points(json_body)
 
 def ifIndex_map_ifDescr(username, auth, authpass, privpass, host):
+    # get the map of  interface index and name
     ifdescr_oid = '1.3.6.1.2.1.2.2.1.2'
     ifdescr = getSnmp(username, auth, authpass, privpass, host, ifdescr_oid)
     ifname_map = {}
     for i in ifdescr:
         ifname_map[i.split('=')[0].strip().split('.')[-1]] = i.split('=')[1].split()[-1]
-    
+ 
     return ifname_map
 
 def main(username, auth, authpass, privpass, host):
+    # collect the interface name and index
     ifname_map = ifIndex_map_ifDescr(username, auth, authpass, privpass, host)
-
+  
+    #collect Mroute table
     mroutetable_oid = '1.3.6.1.2.1.83.1.1.2.1'
     mroutetable = getSnmp(username,auth,authpass,privpass,host, mroutetable_oid)
-    
+
+    #collect the nexthop table which includes the outgoing interface info.
     nexthop_oid = '1.3.6.1.2.1.83.1.1.3.1'
     outgoingtable = getSnmp(username,auth,authpass,privpass,host, nexthop_oid)
 
+    #format the mroute table as a dict for write to influxdb
     mroutetable_subindex_map = {
         '1': 'ipMRouteGroup',
         '2': 'ipMRouteSource',
@@ -87,11 +93,11 @@ def main(username, auth, authpass, privpass, host):
         group_id = '{}.{}.{}'.format(group, source, mask)
 
         if group_id not in group_infos:
-            group_infos[group_id] = { 'ipMrouteGroup': group, 'ipMRouteSource': source, 'ipMRouteSourceMask': mask }   
+            group_infos[group_id] = { 'ipMrouteGroup': group, 'ipMRouteSource': source, 'ipMRouteSourceMask': mask }
 
         group_infos[group_id][mroutetable_subindex_map[key]] = value
-    
-    
+
+    # get the outgoing interfaces list of  the mroute entries and add to the group_infos
     for i in outgoingtable:
         group = '.'.join(i.split(nexthop_oid[-10:])[1].split('=')[0].strip().split('.')[2:6])
         source = '.'.join(i.split(nexthop_oid[-10:])[1].split('=')[0].strip().split('.')[6:10])
@@ -103,13 +109,14 @@ def main(username, auth, authpass, privpass, host):
         else:
             if OutInterface not in group_infos[group_id]['OutInterfaces']:
                 group_infos[group_id]['OutInterfaces'] += ' {}'.format(OutInterface)
-    
+
+    # add host to the mroute table entries
     for  i in group_infos:
         mroutetableEntries .append({'host': host, 'mrouteEntry_id': i, 'mrouteEntry_detail' : group_infos[i]})
 
-    
+    # write mroute to influxdb
     for i  in  mroutetableEntries:
-        writeinfluxdb('10.1.77.99','mroutes','admin', 'password', i)
+        writeinfluxdb('utilserver2','mroutes','snmp', 'snmp', i)
 
 
 if __name__ == "__main__":
