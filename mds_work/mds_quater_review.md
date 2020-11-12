@@ -119,19 +119,35 @@ NVME
 18. renew cert of citrix adc
 19. update scripts to backup/monitor network devices
 
-# 2020 quater 3
-## 2020/10/10
-### TODO
+# 2020 quater 4
+## TODO
+### 2020/10/10
+
 1. fix rfa server network link issue.
 
-## 2020/10/12
-### TODO
+### 2020/10/12
+
 1. investigate nvme ssd
 2. replace ciyconn4
 3. replace the old servers
 
-## 202010/19
+### 202010/19
 1. replace X4 card with X5 card
   - cwgdatalog
   - ciydatalog2
   - cijquip4 and cijdatalog
+
+### 2020/10/28
+1. add simret mount point on zeus1
+2. test nvme ssd
+3. split /build from /scratch
+
+### 2020/11/9
+1. fix tingting's notebook
+
+
+
+## What has been done
+1. replaced rfa eed servers
+2. installed printer for mdsl
+3. replaced ciyconn4 with ciyconn24

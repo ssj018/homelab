@@ -93,7 +93,7 @@ def main(username, auth, authpass, privpass, host):
         group_id = '{}.{}.{}'.format(group, source, mask)
 
         if group_id not in group_infos:
-            group_infos[group_id] = { 'ipMrouteGroup': group, 'ipMRouteSource': source, 'ipMRouteSourceMask': mask }
+            group_infos[group_id] = { 'ipMrouteGroup': group,'ipMRouteSource': source, 'ipMRouteSourceMask': mask }
 
         group_infos[group_id][mroutetable_subindex_map[key]] = value
 
@@ -116,7 +116,7 @@ def main(username, auth, authpass, privpass, host):
 
     # write mroute to influxdb
     for i  in  mroutetableEntries:
-        writeinfluxdb('utilserver2','mroutes','snmp', 'snmp', i)
+        writeinfluxdb('utilserver2', 'mroutes', 'snmp', 'snmp', i)
 
 
 if __name__ == "__main__":

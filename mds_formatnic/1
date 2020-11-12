@@ -1,0 +1,217 @@
+ciyconn4 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27630 Family
+12:00.1 Ethernet controller: Mellanox Technologies MT27630 Family
+
+ciyconn3 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27630 Family
+12:00.1 Ethernet controller: Mellanox Technologies MT27630 Family
+
+ciyconn1 | CHANGED | rc=0 >>
+11:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+11:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+61:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+61:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciyconn5 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciyconn20 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciyconn23 | CHANGED | rc=0 >>
+13:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+13:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cwgtradea1 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27520 Family [ConnectX-3 Pro]
+
+ciytradea2 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciytradea1 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciytrip2 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciyquote2 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciytrip3 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciyquote3 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+wksquip1 | CHANGED | rc=0 >>
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciytradea5 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciytradea6 | CHANGED | rc=0 >>
+65:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciydatalog2 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.0 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+37:00.1 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+
+haidatalog | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+haiquote1 | CHANGED | rc=0 >>
+13:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+13:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+haitrip1 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+wksquip2 | CHANGED | rc=0 >>
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+csztrip3 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+ciydatalog | CHANGED | rc=0 >>
+08:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+08:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+0b:00.0 Ethernet controller: Mellanox Technologies MT27520 Family [ConnectX-3 Pro]
+
+ciyquote1 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cijquip4 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+12:00.1 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+13:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+13:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cijdatalog | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+12:00.1 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+
+csztradea3 | CHANGED | rc=0 >>
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+csztradea2 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+csztradea5 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+csztradea4 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cszquote1 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+csztradea6 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+csztrip1 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+csztrip2 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cdgquip3 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cdgquip4 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cwgtradea2 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27520 Family [ConnectX-3 Pro]
+
+cwgtradea3 | CHANGED | rc=0 >>
+37:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cszdatalog | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+37:00.0 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+37:00.1 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+
+cwgtradea4 | CHANGED | rc=0 >>
+12:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+12:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cwgdatalog | CHANGED | rc=0 >>
+05:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+05:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+0b:00.0 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+0b:00.1 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+
+cwgquote1 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cwgtrip1 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+65:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cwgtrip2 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+17:00.1 Ethernet controller: Mellanox Technologies MT27710 Family [ConnectX-4 Lx]
+
+cwgtrip3 | CHANGED | rc=0 >>
+17:00.0 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+17:00.1 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+65:00.0 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+65:00.1 Ethernet controller: Mellanox Technologies MT27800 Family [ConnectX-5]
+
