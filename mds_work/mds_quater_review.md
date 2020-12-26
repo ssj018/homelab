@@ -120,16 +120,17 @@ NVME
 19. update scripts to backup/monitor network devices
 
 # 2020 quater 4
+
 ## TODO
 ### 2020/10/10
 
-1. fix rfa server network link issue.
+1. 
 
 ### 2020/10/12
 
 1. investigate nvme ssd
-2. replace ciyconn4
-3. replace the old servers
+2. 
+3. replace the old servers(furion21 replaced furion2/12/13)
 
 ### 202010/19
 1. replace X4 card with X5 card
@@ -138,16 +139,44 @@ NVME
   - cijquip4 and cijdatalog
 
 ### 2020/10/28
-1. add simret mount point on zeus1
+1. 
 2. test nvme ssd
 3. split /build from /scratch
 
 ### 2020/11/9
-1. fix tingting's notebook
+1. 
+2. monitor multicast route table
+3. 
 
+### 2020/11/17
+1. clear qnap space
 
+### 2020/11/20
+1. 
+
+### 2020/12/14
+1. install trade server for csz 
+
+### 2020/12/17
+1. fix ciara motherboard issue
+2. monitor ciara hardware logs
+
+### 20202/12/25
+1. test vpn of csz newservers
+2. test intel nvme ssd
 
 ## What has been done
 1. replaced rfa eed servers
 2. installed printer for mdsl
 3. replaced ciyconn4 with ciyconn24
+4. prepare 3 servers for jiangdong
+5. fix rfa server network link issue.
+6. replaced ciyconn4
+7. fix tingting's notebookbat
+8. add simret mount point on zeus1
+9. set acl for live
+10. switch hkg vpn
+11. fix citrixhost1 memory issue
+12. added the furion21 and remove 3 old servers
+13. added 2 hp server for vlinux
+14. fix citrixhost7 hardware issue
