@@ -114,7 +114,7 @@ NVME
 13. add a ciara to cwg
 14. upgrade wifi 
 15. added 4 vitural hosts for mdsl
-16. replace and add testlab3/testlab7
+16. replace and add testlab3/testlabg
 17. upgrade office switch's os
 18. renew cert of citrix adc
 19. update scripts to backup/monitor network devices
@@ -130,7 +130,7 @@ NVME
 
 1. investigate nvme ssd
 2. 
-3. replace the old servers(furion21 replaced furion2/12/13)
+3. 
 
 ### 202010/19
 1. replace X4 card with X5 card
@@ -149,7 +149,7 @@ NVME
 3. 
 
 ### 2020/11/17
-1. clear qnap space
+
 
 ### 2020/11/20
 1. 
@@ -164,6 +164,9 @@ NVME
 ### 20202/12/25
 1. test vpn of csz newservers
 2. test intel nvme ssd
+
+### 2020/12/28
+1. backup 2019rdata
 
 ## What has been done
 1. replaced rfa eed servers
@@ -180,3 +183,75 @@ NVME
 12. added the furion21 and remove 3 old servers
 13. added 2 hp server for vlinux
 14. fix citrixhost7 hardware issue
+15. replace the old servers(furion21 replaced furion2/12/13)
+16. renew citrix adc cert and license
+
+what has been done:
+1. system related:
+  - Investigated and wrote a script to collect multicast table with snmp
+  - Wrote a script to collectd ciara ipmi logs
+  - Tested new H3C server(with AMD cpu, 256 cores)
+  - Installed virtual workstation for core and ops
+  - Purchased/renew licenses for citrix virtual destops and citrix adc
+  - Installed/Deployed 4 citrix virtual destops for mdsl colleague
+  - Investigated the use of nvme ssd on the live machine and storage 
+  - Tested the benchmark of ciara HF210-G5(10core, 5.3G)
+  - Fixed  3 servers hardware issues(motherboard, memory and power supply failed) 
+  - Installed and Removed about 20 servers for live colos and lab 
+    - added 2 trade server to csz 
+    - replaced ciyconn4 with ciyconn24 for ciy
+    - upgraded 2 `rfa eed` servers
+    - installed 4 test servers for jiangdong
+    - Installed 2 citrix xenserver to install vms
+    - added furion21 (H3C AMD server with 256 cores) 
+    - removed 3 old super micro servers(furion2/furion12/furion13)
+    - take 1 unused server backup to office from cdg 
+  - Helpdesk related works
+
+2. network
+  - switch  vpn of hkg to new line
+  - upgraded acl from office  to live
+  - fixed network issue of rfa servers
+    
+
+ what is in progress:
+ - migrate /scratch to nvme ssd(10%)
+ - monitor multicast route and apply  multicast acl(70%)
+ - deal with Scrapped servers (10%)
+
+ what can be improve:
+  - Learn and understand multicast related  live applications
+
+  Acknowledgement:
+  Thanks to @liusong @wangyou @xuqan for helped in my work. Especially many suggestions and reminders from @liusong. 
+
+  # 2020 quater 4
+
+### 202010/19
+1. replace X4 card with X5 card
+  - cwgdatalog
+  - ciydatalog2
+  - cijquip4 and cijdatalog
+
+### 2020/10/28
+
+2. test nvme ssd
+3. split /build from /scratch
+
+### 2020/11/9
+
+2. monitor multicast route table
+
+### 2021/1/11
+
+1. test ciara 10980
+2. update the ilo check job
+3. use script to test network config after change networking
+
+### 2021/1/15
+
+### 2021/1/19
+1. fix hpe server hardware issue
+
+## What has been done 
+1. hkg network change for sgx
