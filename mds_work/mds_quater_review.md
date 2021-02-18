@@ -254,4 +254,4 @@ what has been done:
 1. fix hpe server hardware issue
 
 ## What has been done 
-1. hkg network change for sgx
+1. set hkg network for sgx
