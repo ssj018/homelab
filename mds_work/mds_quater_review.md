@@ -225,7 +225,7 @@ what has been done:
   Acknowledgement:
   Thanks to @liusong @wangyou @xuqan for helped in my work. Especially many suggestions and reminders from @liusong. 
 
-  # 2020 quater 4
+  # 2021 quater 1
 
 ### 202010/19
 1. replace X4 card with X5 card
@@ -255,3 +255,5 @@ what has been done:
 
 ## What has been done 
 1. set hkg network for sgx
+2. add citrix remote access for annan
+3. replace remote qnap disk
