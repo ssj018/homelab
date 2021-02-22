@@ -262,3 +262,4 @@ what has been done:
 2. install 2 new server at gds and office lab to  in setup nvme storage
 3. remote tech support for citrix,testlab,helpdesk
 4. test cszquote1's cpu high temperature issue
+5. set hkg network for sgx
