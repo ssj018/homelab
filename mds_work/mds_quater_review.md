@@ -254,4 +254,11 @@ what has been done:
 1. fix hpe server hardware issue
 
 ## What has been done 
-1. hkg network change for sgx
+1. hkg network change for sgx(uat/production)
+2. setup network of csz(204 connect to 308)
+
+### 1/23 ~ 29
+1. hkg sgx production network setup
+2. install 2 new server at gds and office lab to  in setup nvme storage
+3. remote tech support for citrix,testlab,helpdesk
+4. test cszquote1's cpu high temperature issue
