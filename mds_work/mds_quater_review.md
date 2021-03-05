@@ -228,41 +228,49 @@ what has been done:
   # 2021 quater 1
 
 ### 202010/19
-1. replace X4 card with X5 card
-  - cwgdatalog
-  - ciydatalog2
-  - cijquip4 and cijdatalog
+
 
 ### 2020/10/28
 
-2. test nvme ssd
-3. split /build from /scratch
+
+
 
 ### 2020/11/9
 
-2. monitor multicast route table
+
 
 ### 2021/1/11
 
-1. test ciara 10980
 2. update the ilo check job
 3. use script to test network config after change networking
-
 ### 2021/1/15
 
 ### 2021/1/19
-1. fix hpe server hardware issue
+1. 
 
 ## What has been done 
-1. set hkg network for sgx
+1. setup/test hkg network for sgx(uat and production)
+2. wrote script to do sanity/smoke test  after change of network settings.
 2. add citrix remote access for annan
 3. replace remote qnap disk
 4. hkg network change for sgx(uat/production)
 5. setup network of csz(204 connect to 308)
+6. fix testlab3 hardware issue
+7. tested nvme ssd and install 2 new server(zeus7/&zeus8) at gds and office lab to  in setup nvme storage
+8. remote tech support for citrix,testlab,helpdesk
+9. test cszquote1's cpu high temperature issue
+10. help mdsl to migrate  backup to office
+11. test ciara 10980
+12. renew ctrix cert
+13. 公安局网络接入报备.
+14. prepare workstation, remote access desktop and test server for huhuang
+15. fix hpe server hardware issue(zeus8, bios&memory failed)
 
-### 1/23 ~ 29
-1. hkg sgx production network setup
-2. install 2 new server at gds and office lab to  in setup nvme storage
-3. remote tech support for citrix,testlab,helpdesk
-4. test cszquote1's cpu high temperature issue
-5. set hkg network for sgx
+## to do:
+1. replace X4 card with X5 card
+  - cwgdatalog
+  - ciydatalog2
+  - cijquip4 and cijdatalog
+2. monitor multicast route table
+3. split /build from /scratch
+4. fix remote qnap
